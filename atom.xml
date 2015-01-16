@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-01-13T17:19:29-08:00</updated>
+  <updated>2015-01-15T22:19:54-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ghost In The Shellcode CTF 2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/01/15/ghost-in-the-shellcode-ctf-2015/"/>
+    <updated>2015-01-15T22:14:55-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/01/15/ghost-in-the-shellcode-ctf-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>If you missed last nights meeting, we announced that we will be participating in the Ghost in the Shellcode CTF! Last year&rsquo;s CTF was extremely fun and was focused on hacking the Pwn Adventure 2 videogame. We killed a million boars, gave ourselves super speed, and even fought a pack of angry bears with AK47s that, errr, had the right to bear arms. And who could forget the best credits/crypto challenge a game has ever had <a href="https://www.youtube.com/watch?v=JtHsIWVceQo">https://www.youtube.com/watch?v=JtHsIWVceQo</a>?</p>
+
+<p>This year&rsquo;s description:
+​</p>
+
+<blockquote><p>How do you top the world&rsquo;s first hacking CTF played live in an actual custom CTF/MMORPG? By doing it again, and even better! We&rsquo;ve even got a dedicated website at <a href="http://www.pwnadventure.com">pwnadventure.com</a> where you can find out more information about this new world of Pwnie Island, this time a true open-world game, with more challenges unique to game hacking.</p></blockquote>
+
+<p>Come out and join us for the first CTF we are participating in for 2015!</p>
+
+<p>Details:</p>
+
+<ul>
+<li>Date &ndash; Friday 1/16/15</li>
+<li>Time &ndash; 6:00PM</li>
+<li>Place &ndash; CSE 309</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 1/14/15]]></title>
@@ -328,7 +355,7 @@ CSE E312</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x70;&#114;&#x65;&#115;&#x69;&#x64;&#x65;&#110;&#x74;&#x40;&#117;&#x66;&#115;&#105;&#x74;&#46;&#x6f;&#114;&#x67;">&#112;&#x72;&#101;&#x73;&#105;&#100;&#x65;&#x6e;&#116;&#64;&#117;&#x66;&#115;&#x69;&#116;&#46;&#111;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x70;&#114;&#101;&#115;&#105;&#100;&#x65;&#110;&#x74;&#x40;&#x75;&#x66;&#115;&#105;&#116;&#46;&#x6f;&#114;&#x67;">&#112;&#114;&#x65;&#115;&#105;&#100;&#x65;&#110;&#116;&#64;&#117;&#x66;&#115;&#x69;&#x74;&#46;&#x6f;&#114;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
@@ -433,17 +460,6 @@ CSE E312</p>
 <p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
 
 <p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - June 25, 2014 | SwampSec]]></title>
-    <link href="http://ufsit.github.io/blog/2014/06/23/meeting-june-25-2014-swampsec/"/>
-    <updated>2014-06-23T16:04:14-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/06/23/meeting-june-25-2014-swampsec</id>
-    <content type="html"><![CDATA[<p>This week, SIT is taking a trip to SwampSec &lt;<a href="http://swampsec.org/">http://swampsec.org/</a>>! If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals that takes place from 7-9pm on the fourth/last Wednesday of the month downtown at Stubbies &amp; Steins &lt;<a href="http://stubbiesandsteins.com/">http://stubbiesandsteins.com/</a>>. Hope to see you there!</p>
-
-<p>(Google Maps: <a href="https://www.google.com/maps?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr&amp;output=classic">https://www.google.com/maps?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr&amp;output=classic</a>)</p>
 ]]></content>
   </entry>
   
