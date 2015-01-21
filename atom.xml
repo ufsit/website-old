@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-01-15T22:19:54-08:00</updated>
+  <updated>2015-01-20T21:54:58-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 1/21/2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/01/20/meeting-1-slash-21-slash-2015/"/>
+    <updated>2015-01-20T21:49:44-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/01/20/meeting-1-slash-21-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers,</p>
+
+<p>This week we will be taking a closer look at some of the tools described by atlas and getting hands on with some x86 binaries! To encourage everyone to solve them as fast as they can, we will be giving out a signed copy of <strong>Hacking Exposed 7</strong> to the first person to email me all the keys after the challenges are released.</p>
+
+<p>President of SIT, Vincent Moscatello</p>
+
+<h2>Be Social!</h2>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+<li> <a href="https://twitter.com/ufsit">@ufsit</a></li>
+</ul>
+
+
+<h2>Time and Location</h2>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ghost In The Shellcode CTF 2015]]></title>
@@ -355,7 +382,7 @@ CSE E312</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x70;&#114;&#101;&#115;&#105;&#100;&#x65;&#110;&#x74;&#x40;&#x75;&#x66;&#115;&#105;&#116;&#46;&#x6f;&#114;&#x67;">&#112;&#114;&#x65;&#115;&#105;&#100;&#x65;&#110;&#116;&#64;&#117;&#x66;&#115;&#x69;&#x74;&#46;&#x6f;&#114;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#112;&#114;&#x65;&#x73;&#105;&#x64;&#x65;&#110;&#x74;&#64;&#x75;&#x66;&#x73;&#x69;&#116;&#46;&#111;&#114;&#x67;">&#112;&#x72;&#x65;&#115;&#105;&#100;&#101;&#x6e;&#116;&#x40;&#117;&#x66;&#x73;&#105;&#116;&#x2e;&#x6f;&#x72;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
@@ -433,25 +460,6 @@ CSE E312</p>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
 <p>Like last week, there will not be a meeting this week. And yet another reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
-
-<p>[UFSIT on the Interwebz]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[No Meeting This Week (07/02)]]></title>
-    <link href="http://ufsit.github.io/blog/2014/06/30/no-meeting-this-week-0702/"/>
-    <updated>2014-06-30T18:01:40-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/06/30/no-meeting-this-week-0702</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>There will not be a meeting this week. As a reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
 
 <p>[UFSIT on the Interwebz]</p>
 
