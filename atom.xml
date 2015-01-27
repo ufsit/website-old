@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-01-20T21:54:58-08:00</updated>
+  <updated>2015-01-27T05:13:31-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -14,13 +14,34 @@
 
   
   <entry>
+    <title type="html"><![CDATA[SwampSec Security Meetup - 1/28 @ 7pm]]></title>
+    <link href="http://ufsit.github.io/blog/2015/01/27/swampsec-security-meetup-1-slash-28-at-7pm/"/>
+    <updated>2015-01-27T05:06:46-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/01/27/swampsec-security-meetup-1-slash-28-at-7pm</id>
+    <content type="html"><![CDATA[<p>Hello SIT members. It&rsquo;s time again for SwampSec. The general announcement is below but in addition to it, I&rsquo;ll have a small tab setup for drinks if you&rsquo;re into that sort of thing. Hope to see you Wed.</p>
+
+<p>We&rsquo;re picking back up after a long break caused by the holidays. There&rsquo;s been lots going on in the infosec world and it seems like everyone is hiring&hellip; including my employer (InGuardians). Come on out for an hour or two to hang out and talk all things security.</p>
+
+<p>Since Stubbies closed, we&rsquo;ve only had one meetup at the The Back Yard Bar and it worked out well with the available food/drink options from the bar and Boca Fiesta (but we&rsquo;re still open to other suggestions). If you don&rsquo;t know where it is, The Back Yard Bar is located between Boca Fiesta and the Palomino Pool Hall next to the Hippodrome.</p>
+
+<p><p style="margin-bottom:0px">Where: <a href="http://www.bocafiesta.com/">The Back Yard Bar</a>
+<p style="margin-top:0px">When: 7pm 1/28</p>
+
+<p><p style="margin-bottom:0px"><a href="http://www.swampsec.org">http://www.swampsec.org</a>
+<p style="margin-top:0px"><a href="https://www.twitter.com/swampsec">https://www.twitter.com/swampsec</a></p>
+
+<p>-jhs</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[SIT Meeting 1/21/2015]]></title>
     <link href="http://ufsit.github.io/blog/2015/01/20/meeting-1-slash-21-slash-2015/"/>
     <updated>2015-01-20T21:49:44-08:00</updated>
     <id>http://ufsit.github.io/blog/2015/01/20/meeting-1-slash-21-slash-2015</id>
     <content type="html"><![CDATA[<p>Hello SITers,</p>
 
-<p>This week we will be taking a closer look at some of the tools described by atlas and getting hands on with some x86 binaries! To encourage everyone to solve them as fast as they can, we will be giving out a signed copy of <strong>Hacking Exposed 7</strong> to the first person to email me all the keys after the challenges are released.</p>
+<p>This week we will be taking a closer look at some of the tools described by atlas and getting hands on with some x86 binaries! To encourage everyone to solve them as fast as they can, we will be giving out a signed copy of &ldquo;Hacking Exposed 7&rdquo; to the first person to email me all the keys after the challenges are released.</p>
 
 <p>President of SIT, Vincent Moscatello</p>
 
@@ -382,7 +403,7 @@ CSE E312</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#112;&#114;&#x65;&#x73;&#105;&#x64;&#x65;&#110;&#x74;&#64;&#x75;&#x66;&#x73;&#x69;&#116;&#46;&#111;&#114;&#x67;">&#112;&#x72;&#x65;&#115;&#105;&#100;&#101;&#x6e;&#116;&#x40;&#117;&#x66;&#x73;&#105;&#116;&#x2e;&#x6f;&#x72;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#97;&#x69;&#108;&#116;&#111;&#x3a;&#x70;&#x72;&#101;&#115;&#x69;&#100;&#x65;&#x6e;&#x74;&#x40;&#x75;&#x66;&#x73;&#105;&#116;&#x2e;&#x6f;&#x72;&#x67;">&#112;&#x72;&#101;&#x73;&#x69;&#x64;&#x65;&#x6e;&#116;&#x40;&#x75;&#x66;&#x73;&#105;&#116;&#x2e;&#x6f;&#114;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
@@ -441,25 +462,6 @@ CSE E312</p>
 <p>We will be resuming normal UFSIT meetings on September 3, 2014. For now, come visit our IRC channel on #ufsit on Freenode! You can find instructions here: <a href="http://ufhack.org/irc/">http://ufhack.org/irc/</a>.</p>
 
 <p>Not on the mailing list? Send an email to president AT ufsit DOT org to request access.</p>
-
-<p>[UFSIT on the Interwebz]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[No Meeting This Week (07/09)]]></title>
-    <link href="http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709/"/>
-    <updated>2014-07-07T17:52:49-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>Like last week, there will not be a meeting this week. And yet another reminder, come join your fellow SIT members in #ufsit on Freenode! You can find instructions on how to connect <a href="http://ufhack.org/irc/">here</a>.</p>
 
 <p>[UFSIT on the Interwebz]</p>
 
