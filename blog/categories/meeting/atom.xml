@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
+  <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-02-11T11:32:49-08:00</updated>
+  <id>http://ufsit.github.io/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 2/11/2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
+    <updated>2015-02-11T11:29:42-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello there SITers! This week we will be taking another look at stack based exploitation. We worked on this last semester, but it&rsquo;s a good idea to become familiar with this before we move on to harder exploits like format string vulnerabilities and heap based attacks.</p>
+
+<p>Hope to see you there!</p>
+
+<p>-Vincent</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]
+Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+</feed>

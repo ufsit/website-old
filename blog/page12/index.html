@@ -12,7 +12,7 @@
     <title>Blog - UF Student InfoSec Team</title>
     <meta name="author" content="UFSIT">
     
-    <meta name="description" content="Meeting - July 10, 2013 | MITRE CTF Practice meeting announcement Good evening, SIT’ers! This week we’ll be discussing more of the MITRE CTF &hellip;">
+    <meta name="description" content="Meeting - August 21, 2013 | SIT and CTF Introduction meeting announcement This Wednesday we will be having our first SIT meeting of the semester! We &hellip;">
     
     <meta name="viewport" content="width=device-width">
     <link rel="canonical" href="http://ufsit.github.io/blog/page12">
@@ -60,6 +60,108 @@
         
 
             
+  
+  
+  <article class="listing">
+    <header>
+  
+  <h1 class="beta">
+    <a href="/blog/2013/08/19/meeting-august-21-2013-sit-and-ctf-introduction/">Meeting - August 21, 2013 | SIT and CTF Introduction</a>
+  </h1>
+  
+
+  
+  <div class="meta clearfix">
+    
+    
+
+  <div class="pull-left">
+    <i class="icon-tags"></i>
+    <ul class="tags unstyled">
+    
+      
+        <li><a class='category' href='/blog/categories/meeting-announcement/'>meeting announcement</a></li>
+      
+    
+    </ul>
+  </div>
+
+    
+  </div>
+  
+</header>
+
+
+
+
+  <p>This Wednesday we will be having our first SIT meeting of the semester! We&rsquo;ll be having an introduction to SIT as well as an introduction to &ldquo;What is Hacking?&rdquo;.</p>
+
+<p>We&rsquo;ll also be talking about CTF basics and the upcoming CSAW CTF.</p>
+
+<p>[Time and Location]<br/>
+Wednesday 7:00pm-9:00pm<br/>
+1151 McCarty Hall A</p>
+
+<p>[Stuff to Bring]<br/>
+- Laptop!</p>
+
+<p>[Ethics Agreement]<br/>
+If you haven’t yet signed an the ethics agreement posted at <a href="http://ufhack.org/ethics/,">http://ufhack.org/ethics/,</a> please bring a copy of the agreement, printed out and signed, to tonight’s meeting.</p>
+
+
+  </article>
+  <hr>
+  
+  
+  <article class="listing">
+    <header>
+  
+  <h1 class="beta">
+    <a href="/blog/2013/07/15/meeting-july-17-2013-binaries-and-user-permissions/">Meeting - July 17, 2013 | Binaries and User Permissions</a>
+  </h1>
+  
+
+  
+  <div class="meta clearfix">
+    
+    
+
+  <div class="pull-left">
+    <i class="icon-tags"></i>
+    <ul class="tags unstyled">
+    
+      
+        <li><a class='category' href='/blog/categories/meeting-announcement/'>meeting announcement</a></li>
+      
+    
+    </ul>
+  </div>
+
+    
+  </div>
+  
+</header>
+
+
+
+
+  <p>Good evening, SIT’ers!</p>
+
+<p>This week we’ll be discussing user permissions and also working on a few binary challenges. Make sure to come on out!</p>
+
+<p>[Time and Location]
+Wednesday 7:00pm-9:00pm
+1151 McCarty Hall A</p>
+
+<p>[Stuff to Bring]
+- Laptop with Linux-based OS (VM or bare metal)</p>
+
+<p>[Ethics Agreement]
+If you haven’t yet signed an the ethics agreement posted at <a href="http://ufhack.org/ethics/,">http://ufhack.org/ethics/,</a> please bring a copy of the agreement, printed out and signed, to tonight’s meeting.</p>
+
+
+  </article>
+  <hr>
   
   
   <article class="listing">
@@ -233,168 +335,6 @@ irc.freenode.net/#ufsit</p>
   </article>
   <hr>
   
-  
-  <article class="listing">
-    <header>
-  
-  <h1 class="beta">
-    <a href="/blog/2013/06/13/prepping-for-the-defcon-ctf-qualifier/">Prepping for the DEFCON CTF Qualifier</a>
-  </h1>
-  
-
-  
-  <div class="meta clearfix">
-    
-    
-
-  <div class="pull-left">
-    <i class="icon-tags"></i>
-    <ul class="tags unstyled">
-    
-      
-        <li><a class='category' href='/blog/categories/main/'>main</a></li>
-      
-    
-    </ul>
-  </div>
-
-    
-  </div>
-  
-</header>
-
-
-
-
-  <p>SIT&#8217;ers,</p>
-
-<p>In order to access the internal collaboration resources this weekend, you&rsquo;ll need to generate a SSH key pair.</p>
-
-<p>&ldquo;How do I do this?&rdquo; you might be thinking.
-It&rsquo;s actually a pretty easy process.</p>
-
-<p>You&rsquo;ll want to do this in a UNIX/Linux environment. Make sure that &lsquo;ssh-keygen&rsquo; is installed. It should be, unless you&rsquo;re using a fresh install of some crazy minimalist distro like Arch Linux.</p>
-
-<p>First, cd into your .ssh directory
-[code]
-[user@machine ~]$ cd /home/user/.ssh/
-[user@machine .ssh]$
-[/code]
-If the directory doesn&rsquo;t exist, create it.
-[code]
-[user@machine ~]$ cd /home/user/.ssh/
--bash: cd: /home/user/.ssh/: No such file or directory
-[user@machine ~]$ mkdir /home/user/.ssh/
-[user@machine ~]$ cd /home/user/.ssh/
-[user@machine .ssh]$
-[/code]</p>
-
-<p>Then run &lsquo;ssh-keygen -t rsa -b 4096&rsquo; (this is telling ssh-keygen to create a 4096-bit key pair, of type RSA). It is not necessary to set a passphrase on this key, but you can if you want to. Please use the naming scheme &lsquo;firstlast_defcon-rsa&rsquo;
-[code]
-[user@machine .ssh]$ ssh-keygen -t rsa -b 4096
-Generating public/private rsa key pair.
-Enter file in which to save the key (/home/user/.ssh/id_rsa): firstlast_defcon-rsa
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /home/user/.ssh/firstlast_defcon-rsa.
-Your public key has been saved in /home/user/.ssh/firstlast_defcon-rsa.pub.
-The key fingerprint is:
-dc:10:47:23:9e:ef:e0:78:15:09:76:a3:26:fd:ed:1c user@machine
-The key&rsquo;s randomart image is:
-+&ndash;[ RSA 4096]&mdash;-+
-|       .oo+.o    |
-|      ..+..+ o   |
-|       oC.+.o    |
-|       + B.+E.   |
-|      . S ooo.   |
-|       .    +    |
-|                 |
-|                 |
-|                 |
-+&mdash;&mdash;&mdash;&mdash;&mdash;&ndash;+
-[/code]</p>
-
-<p>Please email your public key (firstlast_defcon-rsa<strong>.pub</strong>) file to <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#109;&#97;&#x74;&#x74;&#x2e;&#x6e;&#97;&#x73;&#x68;&#64;&#117;&#x66;&#108;&#x2e;&#101;&#100;&#117;">&#x6d;&#x61;&#x74;&#116;&#x2e;&#x6e;&#x61;&#115;&#x68;&#x40;&#x75;&#102;&#108;&#46;&#x65;&#100;&#x75;</a></p>
-
-<p>After we add your pubkey to the server, you&rsquo;ll get an email reply with instructions on how to use the tunnel we&rsquo;ve created. You&rsquo;ll also receive information about the internal resources.</p>
-
-
-  </article>
-  <hr>
-  
-  
-  <article class="listing">
-    <header>
-  
-  <h1 class="beta">
-    <a href="/blog/2013/06/10/defcon-qual-and-meeting-announcement/">DEFCON Qual and Meeting Announcement!</a>
-  </h1>
-  
-
-  
-  <div class="meta clearfix">
-    
-    
-
-  <div class="pull-left">
-    <i class="icon-tags"></i>
-    <ul class="tags unstyled">
-    
-      
-        <li><a class='category' href='/blog/categories/meeting-announcement/'>meeting announcement</a></li>
-      
-    
-    </ul>
-  </div>
-
-    
-  </div>
-  
-</header>
-
-
-
-
-  <p>Good evening SITers!</p>
-
-<p>Important! The DEFCON qualifications (LegitBS) are coming up and we are a part of the Sunshine State Hackers v3 team (or SSHv3 for short.) SSHv3 is a combination of UF SIT and teams from other Florida colleges! Check the mailing list for more information.</p>
-
-<p>Also, our next meeting will be this Wednesday June 12, 2013 from 7-9pm in McCarty A 1151. Come out to discuss networking and some other topics to help us prepare for the DEFCON qualifications.</p>
-
-<p>[Things to Bring]</p>
-
-<p>Laptop with Backtrack/Kali Linux</p>
-
-<p>[Miss a Meeting?]</p>
-
-<p>You can find the old meeting minutes here:</p>
-
-<p><a href="http://ufhack.org/category/meeting-re-caps/">http://ufhack.org/category/meeting-re-caps/</a>. Meeting minutes will</p>
-
-<p>be available before twenty four hours after each meeting.</p>
-
-<p>[Ethics Agreement]</p>
-
-<p>If you haven’t yet signed an the ethics agreement</p>
-
-<p>posted at <a href="http://ufhack.org/ethics/">http://ufhack.org/ethics/</a>, please bring a copy of the</p>
-
-<p>agreement, printed out and signed, to tonight’s meeting.</p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday</p>
-
-<p>7:00pm – 9:00pm</p>
-
-<p>1151 McCarty Hall A</p>
-
-<p><a href="http://campusmap.ufl.edu/?loc=0495">http://campusmap.ufl.edu/?loc=0495</a></p>
-
-
-  </article>
-  <hr>
-  
 
   <div class="pagination">
     
@@ -439,6 +379,14 @@ The key&rsquo;s randomart image is:
   <ul class="divided">
     
       <li class="post">
+        <a href="/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/">SIT Meeting 2/11/2015</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015/">SIT &#8211; Meeting 2/4/2015</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2015/01/27/swampsec-security-meetup-1-slash-28-at-7pm/">SwampSec Security Meetup - 1/28 @ 7pm</a>
       </li>
     
@@ -448,14 +396,6 @@ The key&rsquo;s randomart image is:
     
       <li class="post">
         <a href="/blog/2015/01/15/ghost-in-the-shellcode-ctf-2015/">Ghost In The Shellcode CTF 2015</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2015/01/13/sit-meeting-1-slash-14-slash-15/">SIT Meeting 1/14/15</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/11/17/meeting-november-19-2014-john-sawyer-the-life-of-a-penetration-tester/">Meeting - November 19, 2014 | John Sawyer - &#8220;The Life of a Penetration Tester&#8221;</a>
       </li>
     
   </ul>

@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-01-27T05:29:16-08:00</updated>
+  <updated>2015-02-11T11:32:49-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 2/11/2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
+    <updated>2015-02-11T11:29:42-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello there SITers! This week we will be taking another look at stack based exploitation. We worked on this last semester, but it&rsquo;s a good idea to become familiar with this before we move on to harder exploits like format string vulnerabilities and heap based attacks.</p>
+
+<p>Hope to see you there!</p>
+
+<p>-Vincent</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]
+Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SIT -- Meeting 2/4/2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015/"/>
+    <updated>2015-02-03T11:28:04-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>This week we are going taking a closer look at how processes are organized in memory and learn a bit about DLL injection! The bulk of the presentation will be about a project I did where IDA was used to reverse engineer a malware sample and turn the assembly back and to a C program that can be compiled and run in Visual Studio. If you can&rsquo;t make it out to the presentation you can read a full writeup of the project here: <a href="http://sheepshellcode.com/blog/2015/02/01/dll-injection-on-windows-xp/">http://sheepshellcode.com/blog/2015/02/01/dll-injection-on-windows-xp/</a></p>
+
+<p>After the presentation, we are going to pick up where we left off and solve a few challenges again. I really want to get rid of that book! Since the third challenge was broken last time expect a slightly harder one to take its place.</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]
+Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SwampSec Security Meetup - 1/28 @ 7pm]]></title>
@@ -403,7 +453,7 @@ CSE E312</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#58;&#x70;&#x72;&#101;&#115;&#x69;&#100;&#101;&#110;&#116;&#64;&#x75;&#102;&#x73;&#105;&#116;&#46;&#x6f;&#114;&#x67;">&#112;&#x72;&#x65;&#x73;&#105;&#x64;&#x65;&#x6e;&#x74;&#64;&#x75;&#x66;&#x73;&#x69;&#116;&#x2e;&#111;&#114;&#103;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x70;&#114;&#101;&#x73;&#105;&#x64;&#101;&#x6e;&#116;&#x40;&#117;&#102;&#115;&#x69;&#116;&#x2e;&#111;&#114;&#103;">&#x70;&#x72;&#101;&#115;&#105;&#100;&#x65;&#x6e;&#x74;&#x40;&#117;&#102;&#115;&#105;&#116;&#x2e;&#111;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
@@ -434,42 +484,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 <p>[Time and Location]<br/>
 Wednesday 7:00pm – 9:00pm<br/>
 CSE E312</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SwampSec - July 30, 2014, 7-9pm at Stubbies and Steins]]></title>
-    <link href="http://ufsit.github.io/blog/2014/07/28/swampsec-july-30-2014-7-9pm-at-stubbies-and-steins/"/>
-    <updated>2014-07-28T18:46:47-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/07/28/swampsec-july-30-2014-7-9pm-at-stubbies-and-steins</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>Just because we won&rsquo;t be having regular meetings doesn&rsquo;t mean we won&rsquo;t be doing things. This week, come to Stubbies &amp; Steins &lt;<a href="http://stubbiesandsteins.com/">http://stubbiesandsteins.com/</a>> and join us for this month&rsquo;s SwampSec!</p>
-
-<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7-9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter <a href="https://twitter.com/swampsec">@swampsec</a>. Hope to see you there!</p>
-
-<p>(Stubbies &amp; Steins: <a href="https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=">https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=</a>)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Regular Meetings Resume September 3, 2014]]></title>
-    <link href="http://ufsit.github.io/blog/2014/07/28/928/"/>
-    <updated>2014-07-28T18:37:14-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/07/28/928</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>We will be resuming normal UFSIT meetings on September 3, 2014. For now, come visit our IRC channel on #ufsit on Freenode! You can find instructions here: <a href="http://ufhack.org/irc/">http://ufhack.org/irc/</a>.</p>
-
-<p>Not on the mailing list? Send an email to president AT ufsit DOT org to request access.</p>
-
-<p>[UFSIT on the Interwebz]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
 ]]></content>
   </entry>
   
