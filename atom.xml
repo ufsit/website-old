@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-02-11T11:32:49-08:00</updated>
+  <updated>2015-02-18T10:21:49-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -14,7 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[SIT Meeting 2/11/2015]]></title>
+    <title type="html"><![CDATA[SIT Meeting 2-18-2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015/"/>
+    <updated>2015-02-18T10:19:19-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers,</p>
+
+<p>This week we will be learning about how the port scanner nmap works by taking a look at some C code and doing some buffer overflow challenges for another prize! If you would like to download the challenges ahead of time you can find them here: <a href="https://github.com/ufsit/overflowchallenges-2-18-2015">https://github.com/ufsit/overflowchallenges-2-18-2015</a>.</p>
+
+<p>Password for gpg will be released at the meeting.</p>
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 2-11-2015]]></title>
     <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
     <updated>2015-02-11T11:29:42-08:00</updated>
     <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
@@ -39,7 +67,7 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[SIT -- Meeting 2/4/2015]]></title>
+    <title type="html"><![CDATA[SIT Meeting 2-4-2015]]></title>
     <link href="http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015/"/>
     <updated>2015-02-03T11:28:04-08:00</updated>
     <id>http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015</id>
@@ -453,37 +481,7 @@ CSE E312</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x70;&#114;&#101;&#x73;&#105;&#x64;&#101;&#x6e;&#116;&#x40;&#117;&#102;&#115;&#x69;&#116;&#x2e;&#111;&#114;&#103;">&#x70;&#x72;&#101;&#115;&#105;&#100;&#x65;&#x6e;&#x74;&#x40;&#117;&#102;&#115;&#105;&#116;&#x2e;&#111;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting – September 3, 2014 | Welcome to SIT – Getting Started With Virtualization]]></title>
-    <link href="http://ufsit.github.io/blog/2014/08/28/meeting-september-3-2014-welcome-to-sit-getting-started-with-virtualization/"/>
-    <updated>2014-08-28T16:21:08-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/08/28/meeting-september-3-2014-welcome-to-sit-getting-started-with-virtualization</id>
-    <content type="html"><![CDATA[<p>Hello SITers,</p>
-
-<p>Get ready for our first meeting of Fall 2014! This week we will be introducing our officers, club structure, and how to get started with virtualization.</p>
-
-<p>Virtualization technology allows a user to emulate an operating system at the software level abstract from underlying hardware. For us, this means we can run an operating system that uses the linux kernel from our Desktop!</p>
-
-<p>Officers are now providing an awesome series of whitepapers that go along with each presentation. To view the docs for this weeks meeting click the link below:</p>
-
-<p><a href="http://ufhack.files.wordpress.com/2014/08/blue-mod-01.pdf">BLUE-MOD-0</a></p>
-
-<p>You will need to bring a laptop with Ethernet access with you!</p>
-
-<p><a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a></p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Wednesday 7:00pm – 9:00pm<br/>
-CSE E312</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#112;&#x72;&#101;&#x73;&#x69;&#x64;&#101;&#110;&#x74;&#x40;&#117;&#x66;&#x73;&#105;&#x74;&#46;&#111;&#x72;&#103;">&#112;&#x72;&#101;&#115;&#105;&#x64;&#x65;&#x6e;&#x74;&#x40;&#117;&#102;&#115;&#105;&#116;&#x2e;&#x6f;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
