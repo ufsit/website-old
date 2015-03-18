@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-03-11T09:06:22-07:00</updated>
+  <updated>2015-03-18T12:13:33-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 3-18-2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015/"/>
+    <updated>2015-03-18T12:11:33-07:00</updated>
+    <id>http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>This week we will be getting some insight into the world of malware by watching a DEFCON 18 talk titled: My Life as a Spyware Developer. This will be followed up by a discussion about ethics. We will also talk a bit more about officer positions and how to run. It was announced at the last meeting that elections will happen April 1st!</p>
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://ufsit.org">http://ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 3-11-2015 - Decompilers]]></title>
@@ -470,32 +496,6 @@ CSE E312</p>
 <p>Wednesday 7:00pm – 9:00pm</p>
 
 <p>CSE E312</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting – September 10, 2014 | Crash Course X86 Binaries]]></title>
-    <link href="http://ufsit.github.io/blog/2014/09/08/meeting-september-10-2014-crash-course-x86-binaries/"/>
-    <updated>2014-09-08T19:04:27-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/09/08/meeting-september-10-2014-crash-course-x86-binaries</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>This week, we&rsquo;ll be familiarizing ourselves with x86 binaries on Linux and provide a starting point for reading/modifying machine code. We&rsquo;ll also be learning about the hex editor hte and other tools like ndisasm.</p>
-
-<p>You can view the document for this meeting here: <a href="https://ufhack.files.wordpress.com/2014/09/red-mod-0.pdf">RED-MOD-0</a> and the doc that goes with it <a href="http://ufhack.files.wordpress.com/2014/09/red-mod-0-annotated-assembly.pdf">RED-MOD-0-ANNOTATED-ASSEMBLY</a></p>
-
-<p>Make sure to bring your laptop with the VMs from last meeting installed! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>Also, as a quick reminder, you can find the meeting recordings at <a href="https://www.youtube.com/ufsit">https://www.youtube.com/ufsit</a>!</p>
-
-<p>[Be Social!]
-IRC: #ufsit on Freenode
-Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]
-Wednesday 7:00pm – 9:00pm
-CSE E312</p>
 ]]></content>
   </entry>
   
