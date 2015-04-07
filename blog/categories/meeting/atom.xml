@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-03-18T12:13:33-07:00</updated>
+  <updated>2015-04-06T18:11:59-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>
+    <link href="http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015/"/>
+    <updated>2015-04-01T12:54:48-07:00</updated>
+    <id>http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>Today our Vice President Daniel will be giving an awesome presentation about the Heart Bleed Vulnerability. To get hands on experience, you will need to make sure you have filled out the online ethics form at ufsit.org (Giant button that says mailing list) that way you will have access to the ndg virtual machines.</p>
+
+<p>Following Daniel&rsquo;s Presentation/exercises we will be having officer elections for people who submitted an email before 7:00pm on Tuesday with what position they would like to run for.</p>
+
+<p>Also due to a scheduling conflict we will be meeting in CSE 312 instead of CSE 309 for the rest of the semester! This room is located in the same area as the lobby with couches.</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li>IRC: #ufsit on Freenode</li>
+<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | <em>CSE E312</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 3-11-2015 - Decompilers]]></title>
