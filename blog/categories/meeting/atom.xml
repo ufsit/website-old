@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-04-06T18:11:59-07:00</updated>
+  <updated>2015-04-08T15:45:09-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 04-08-15]]></title>
+    <link href="http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15/"/>
+    <updated>2015-04-08T15:42:01-07:00</updated>
+    <id>http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>This week we are back at exploit writing with a new challenge! This challenge will be rather difficult and the source code will not be provided until after someone wins the challenge.</p>
+
+<p><a href="https://github.com/ufsit/exploit-challenge-4-8-2015">https://github.com/ufsit/exploit-challenge-4-8-2015</a></p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E312</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>

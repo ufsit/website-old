@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-04-06T18:11:59-07:00</updated>
+  <updated>2015-04-08T15:45:09-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 04-08-15]]></title>
+    <link href="http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15/"/>
+    <updated>2015-04-08T15:42:01-07:00</updated>
+    <id>http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>This week we are back at exploit writing with a new challenge! This challenge will be rather difficult and the source code will not be provided until after someone wins the challenge.</p>
+
+<p><a href="https://github.com/ufsit/exploit-challenge-4-8-2015">https://github.com/ufsit/exploit-challenge-4-8-2015</a></p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E312</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>
@@ -478,21 +500,6 @@ CSE E312</p>
 <p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7-9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec. Hope to see you there!</p>
 
 <p>(Stubbies &amp; Steins: <a href="https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=">https://www.google.com/maps/preview?t=m&amp;ll=29.6518118,-82.3255617&amp;z=17&amp;geocode=FWdzxAEdxs8X-ymt0wTyjKPoiDGY1Gy2J4WVEA&amp;saddr=Stubbie+Shirt+Pub,+9+W+University+Ave,+Gainesville,+FL+32601&amp;daddr=</a>)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CSAW CTF | Friday 6:30pm - Sunday 6:00pm]]></title>
-    <link href="http://ufsit.github.io/blog/2014/09/18/959/"/>
-    <updated>2014-09-18T19:37:45-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/09/18/959</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>It&rsquo;s that time of the semester again when Kernel Sanders competes in the first CTF of the semester! Like I mentioned at the meeting, CSAW is a great CTF for beginners since it&rsquo;s labeled as &ldquo;a competition designed for undergraduate students who are trying to break into cyber security&rdquo;.</p>
-
-<p>And, thanks to <a href="http://www.includesecurity.com">Include Security</a>, we will have pizza to chow down on while we&rsquo;re having fun hacking all the things.</p>
-
-<p>We&rsquo;ll be in <strong>CSE E309 starting at 6:30pm on Friday</strong> so come out and hack with us! And, just note that you don&rsquo;t have to be there for the full 48 hours - feel free to come and go as you wish.</p>
 ]]></content>
   </entry>
   
