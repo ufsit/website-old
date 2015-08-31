@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-04-08T15:45:09-07:00</updated>
+  <updated>2015-08-31T19:15:21-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -14,9 +14,36 @@
 
   
   <entry>
+    <title type="html"><![CDATA[SIT Meeting 09-01-15]]></title>
+    <link href="http://ufsit.github.io/blog/2015/08/31/sit-meeting-09-01-15/"/>
+    <updated>2015-08-31T22:00:00-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/08/31/sit-meeting-09-01-15</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>Our first meeting of the semester will on <em>TUESDAY</em> (yes, Tuesday) at 6pm in CSE E309. We&rsquo;ll be introducing the club and then learning a bit about SQL injection! While there are computers there, they are limited so we recommend that you bring your own.</p>
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li>IRC: #ufsit on Freenode</li>
+<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+<li>Twitter: @ufsit</li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[SIT Meeting 04-08-15]]></title>
     <link href="http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15/"/>
-    <updated>2015-04-08T15:42:01-07:00</updated>
+    <updated>2015-04-08T18:42:01-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15</id>
     <content type="html"><![CDATA[<p>Hello SITers!</p>
 
@@ -38,7 +65,7 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
   <entry>
     <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>
     <link href="http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015/"/>
-    <updated>2015-04-01T12:54:48-07:00</updated>
+    <updated>2015-04-01T15:54:48-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015</id>
     <content type="html"><![CDATA[<p>Hello SITers!</p>
 
@@ -66,7 +93,7 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
   <entry>
     <title type="html"><![CDATA[SIT Meeting 3-11-2015 - Decompilers]]></title>
     <link href="http://ufsit.github.io/blog/2015/03/11/sit-meeting-3-11-2015/"/>
-    <updated>2015-03-11T09:04:26-07:00</updated>
+    <updated>2015-03-11T12:04:26-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/03/11/sit-meeting-3-11-2015</id>
     <content type="html"><![CDATA[<p>Hello SITers,</p>
 
@@ -93,38 +120,13 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[SIT Meeting 2-11-2015]]></title>
     <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
-    <updated>2015-02-11T11:29:42-08:00</updated>
+    <updated>2015-02-11T14:29:42-05:00</updated>
     <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
     <content type="html"><![CDATA[<p>Hello there SITers! This week we will be taking another look at stack based exploitation. We worked on this last semester, but it&rsquo;s a good idea to become familiar with this before we move on to harder exploits like format string vulnerabilities and heap based attacks.</p>
 
 <p>Hope to see you there!</p>
 
 <p>-Vincent</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]
-Wednesday 7:00pm – 8:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 2-4-2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015/"/>
-    <updated>2015-02-03T11:28:04-08:00</updated>
-    <id>http://ufsit.github.io/blog/2015/02/03/sit-meeting-2-slash-4-slash-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>This week we are going taking a closer look at how processes are organized in memory and learn a bit about DLL injection! The bulk of the presentation will be about a project I did where IDA was used to reverse engineer a malware sample and turn the assembly back and to a C program that can be compiled and run in Visual Studio. If you can&rsquo;t make it out to the presentation you can read a full writeup of the project here: <a href="http://sheepshellcode.com/blog/2015/02/01/dll-injection-on-windows-xp/">http://sheepshellcode.com/blog/2015/02/01/dll-injection-on-windows-xp/</a></p>
-
-<p>After the presentation, we are going to pick up where we left off and solve a few challenges again. I really want to get rid of that book! Since the third challenge was broken last time expect a slightly harder one to take its place.</p>
 
 <p>[Be Social!]</p>
 
