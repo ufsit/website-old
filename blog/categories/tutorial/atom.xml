@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tutorial | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/tutorial/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-04T14:01:29-04:00</updated>
+  <updated>2015-09-04T14:16:52-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -23,6 +23,9 @@
 <p>For some meetings and CTFs this semester, you&rsquo;re going to want a Kali Linux VM. To set this up, you&rsquo;ll want to download and install VirtualBox (free, <a href="https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a>) OR use your CISE OnTheHub store account to get VMWare for free (check your CISE email for instructions on activating your account).</p>
 
 <p>Here are the instructions for getting Kali Linux set up in either VMWare or VirtualBox:</p>
+
+<!-- more -->
+
 
 <p>VirtualBox:</p>
 
