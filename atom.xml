@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-08-31T19:15:21-04:00</updated>
+  <updated>2015-09-04T13:56:50-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MMA CTF - Fri Sept 4 @ 8pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309/"/>
+    <updated>2015-09-04T13:48:26-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Like we mentioned at Tuesday&rsquo;s meeting, we&rsquo;ll be competing in the MMA CTF (<a href="https://uecmma.github.io/mmactf/">https://uecmma.github.io/mmactf/</a>) this weekend. If you want to come hang out and work on some challenges, we&rsquo;ll be in CSE E309 from:</p>
+
+<ul>
+<li>8pm - 11pm on Friday</li>
+<li>Noon - 4pm on Saturday</li>
+</ul>
+
+
+<p>Can&rsquo;t make those times? Don&rsquo;t fret! We&rsquo;ll be collaborating on the UFSIT IRC (#ufsit on Freenode) and will be posting instructions on how to participate remotely there.</p>
+
+<p>Though, if you&rsquo;re planning on coming to compete in person, we ask that you bring a laptop with a Kali Linux VM on it. We&rsquo;ll be sending out instructions on how to set that up soon.</p>
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Slack: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>  <br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a>  <br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+8pm - 11pm on Friday<br/>
+Noon - 4pm on Saturday<br/>
+CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 09-01-15]]></title>
@@ -486,30 +523,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p>Wednesday 7:00pm – 9:00pm</p>
 
 <p>CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - October 1, 2014 | Buffer Overflow Exploits]]></title>
-    <link href="http://ufsit.github.io/blog/2014/09/30/meeting-october-1-2014-buffer-overflow-exploits/"/>
-    <updated>2014-09-30T12:22:29-04:00</updated>
-    <id>http://ufsit.github.io/blog/2014/09/30/meeting-october-1-2014-buffer-overflow-exploits</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we will talk about the basic concepts of computer memory and how it&rsquo;s organized in Linux in order to dive into buffer overflow exploits!</p>
-
-<p>You can view the doc for tonight at: <a href="http://sheepshellcode.com/tutorials/RED-MOD/red-mod-1.pdf">http://sheepshellcode.com/tutorials/RED-MOD/red-mod-1.pdf</a></p>
-
-<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>[Be Social!]
-IRC: #ufsit on Freenode
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]
-Wednesday 7:00pm – 9:00pm
-CSE E312</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ctf | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/ctf/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-08-31T19:15:21-04:00</updated>
+  <updated>2015-09-04T13:56:50-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MMA CTF - Fri Sept 4 @ 8pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309/"/>
+    <updated>2015-09-04T13:48:26-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Like we mentioned at Tuesday&rsquo;s meeting, we&rsquo;ll be competing in the MMA CTF (<a href="https://uecmma.github.io/mmactf/">https://uecmma.github.io/mmactf/</a>) this weekend. If you want to come hang out and work on some challenges, we&rsquo;ll be in CSE E309 from:</p>
+
+<ul>
+<li>8pm - 11pm on Friday</li>
+<li>Noon - 4pm on Saturday</li>
+</ul>
+
+
+<p>Can&rsquo;t make those times? Don&rsquo;t fret! We&rsquo;ll be collaborating on the UFSIT IRC (#ufsit on Freenode) and will be posting instructions on how to participate remotely there.</p>
+
+<p>Though, if you&rsquo;re planning on coming to compete in person, we ask that you bring a laptop with a Kali Linux VM on it. We&rsquo;ll be sending out instructions on how to set that up soon.</p>
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Slack: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>  <br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a>  <br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+8pm - 11pm on Friday<br/>
+Noon - 4pm on Saturday<br/>
+CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CTF - Ghost in the Shellcode | Friday 1500 - Sunday 1330]]></title>
