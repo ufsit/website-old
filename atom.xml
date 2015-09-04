@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-04T13:56:50-04:00</updated>
+  <updated>2015-09-04T14:01:29-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Kali Linux VM Installation Instructions]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions/"/>
+    <updated>2015-09-04T13:59:25-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>For some meetings and CTFs this semester, you&rsquo;re going to want a Kali Linux VM. To set this up, you&rsquo;ll want to download and install VirtualBox (free, <a href="https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a>) OR use your CISE OnTheHub store account to get VMWare for free (check your CISE email for instructions on activating your account).</p>
+
+<p>Here are the instructions for getting Kali Linux set up in either VMWare or VirtualBox:</p>
+
+<p>VirtualBox:</p>
+
+<ol>
+<li>Download the &lsquo;Kali Linux 64 bit VBox&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
+<li>Extract the .7z file.</li>
+<li>Double click on the &lsquo;.ova&rsquo; file and follow VirtualBox&rsquo;s installation prompt.</li>
+<li>Launch it!</li>
+<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
+</ol>
+
+
+<p>VMWare:</p>
+
+<ol>
+<li>Download the &lsquo;Kali Linux 64 bit VM&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
+<li>Extract the .7z file and navigate into the unzipped directory.</li>
+<li>Double click on the &lsquo;.vmx&rsquo; file to open the Virtual Machine! (Note: if you want to move this into a different directory, do that before opening it!)</li>
+<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
+<li>We recommend changing the default &lsquo;toor&rsquo; password to something a bit stronger and less default-y.</li>
+</ol>
+
+
+<p>If you have any issues, please let us know in #ufsit on Freenode!</p>
+
+<p>~ Andrew</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MMA CTF - Fri Sept 4 @ 8pm in CSE E309]]></title>
@@ -494,35 +533,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>Just a heads up that we will <strong>not</strong> be having a meeting this week. Best of luck on midterms and enjoy the homecoming festivities :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - October 8, 2014 | Hashes]]></title>
-    <link href="http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes/"/>
-    <updated>2014-10-07T23:13:36-04:00</updated>
-    <id>http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>This week&rsquo;s presentation will introduce the science behind hashes such as SHA2/MD5 and how they are commonly used on Linux systems. Additionally, this presentation will introduce the hashmap datastructure and how it is implemented in the C programming language. We will discuss how a poor implementation can result in a vulnerability.</p>
-
-<p>View the doc for this meeting here: <a href="https://ufhack.files.wordpress.com/2014/10/sithashingdocument.pdf">BLUE-TEAM-MOD-2.pdf</a></p>
-
-<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>[Be Social!]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 9:00pm</p>
-
-<p>CSE E309</p>
 ]]></content>
   </entry>
   

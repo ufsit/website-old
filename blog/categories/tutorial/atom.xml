@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tutorial | UF Student InfoSec Team]]></title>
+  <link href="http://ufsit.github.io/blog/categories/tutorial/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-09-04T14:01:29-04:00</updated>
+  <id>http://ufsit.github.io/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kali Linux VM Installation Instructions]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions/"/>
+    <updated>2015-09-04T13:59:25-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>For some meetings and CTFs this semester, you&rsquo;re going to want a Kali Linux VM. To set this up, you&rsquo;ll want to download and install VirtualBox (free, <a href="https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a>) OR use your CISE OnTheHub store account to get VMWare for free (check your CISE email for instructions on activating your account).</p>
+
+<p>Here are the instructions for getting Kali Linux set up in either VMWare or VirtualBox:</p>
+
+<p>VirtualBox:</p>
+
+<ol>
+<li>Download the &lsquo;Kali Linux 64 bit VBox&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
+<li>Extract the .7z file.</li>
+<li>Double click on the &lsquo;.ova&rsquo; file and follow VirtualBox&rsquo;s installation prompt.</li>
+<li>Launch it!</li>
+<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
+</ol>
+
+
+<p>VMWare:</p>
+
+<ol>
+<li>Download the &lsquo;Kali Linux 64 bit VM&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
+<li>Extract the .7z file and navigate into the unzipped directory.</li>
+<li>Double click on the &lsquo;.vmx&rsquo; file to open the Virtual Machine! (Note: if you want to move this into a different directory, do that before opening it!)</li>
+<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
+<li>We recommend changing the default &lsquo;toor&rsquo; password to something a bit stronger and less default-y.</li>
+</ol>
+
+
+<p>If you have any issues, please let us know in #ufsit on Freenode!</p>
+
+<p>~ Andrew</p>
+]]></content>
+  </entry>
+  
+</feed>
