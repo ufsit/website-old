@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-04T14:46:03-04:00</updated>
+  <updated>2015-09-07T18:30:17-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/07/meeting-xss-%7C-september-8-2015/"/>
+    <updated>2015-09-07T18:26:45-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/07/meeting-xss-|-september-8-2015</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, <a href="http://andrewjkerr.com">Andrew</a> be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!</p>
+
+<!-- more -->
+
+
+<p>Also, while you won&rsquo;t need Kali this week, officers will be helping any of you that had trouble installing it (and, just in case you missed it, installation instructions can be found here: <a href="http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/">http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/</a>).</p>
+
+<p>Hope to see you there!<br/>
+~ Andrew</p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SIT Meeting 09-01-15]]></title>
@@ -109,31 +137,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 <li>IRC: #ufsit on Freenode</li>
 <li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
 <li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]
-Wednesday 7:00pm – 8:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 2-11-2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
-    <updated>2015-02-11T14:29:42-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
-    <content type="html"><![CDATA[<p>Hello there SITers! This week we will be taking another look at stack based exploitation. We worked on this last semester, but it&rsquo;s a good idea to become familiar with this before we move on to harder exploits like format string vulnerabilities and heap based attacks.</p>
-
-<p>Hope to see you there!</p>
-
-<p>-Vincent</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
 </ul>
 
 
