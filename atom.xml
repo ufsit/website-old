@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-08T21:43:08-04:00</updated>
+  <updated>2015-09-08T21:53:18-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MMA CTF Writeups]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups/"/>
+    <updated>2015-09-08T21:48:34-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups</id>
+    <content type="html"><![CDATA[<p>Last weekend, the SIT competed in <a href="https://uecmma.github.io/mmactf/">MMA CTF</a> and had a few members solve challenges! If you were one of those members, we want your writeup! If you have a writeup for a challenge, please send them to <a href="mailto:%20me+ufsit@andrewjkerr.com">Andrew</a> and we will post them below. Thanks!</p>
+
+<!-- more -->
+
+
+<h3>Writeups</h3>
+
+<ul>
+<li><a href="http://sheepshellcode.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/">Rock Paper SHELLCODE</a> by Vincent Moscatello</li>
+<li><a href="http://andrewjkerr.com/blog/mma-ctf-writeup/">Login as admin!</a> by Andrew Kerr</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
@@ -549,21 +569,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p>Wednesday 7:00pm – 9:00pm</p>
 
 <p>CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SwampSec - October 22, 2014 | 7pm | The Back Yard Bar]]></title>
-    <link href="http://ufsit.github.io/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar/"/>
-    <updated>2014-10-21T10:48:15-04:00</updated>
-    <id>http://ufsit.github.io/blog/2014/10/21/swampsec-october-22-2014-7pm-the-back-yard-bar</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, come join us at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
-
-<p><strong>Please note that we will NOT be meeting in CSE309.</strong></p>
-
-<p>If you don&rsquo;t know what SwampSec is, it&rsquo;s a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec. Hope to see you there!</p>
 ]]></content>
   </entry>
   
