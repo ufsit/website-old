@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-07T18:30:17-04:00</updated>
+  <updated>2015-09-08T21:43:08-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -21,6 +21,14 @@
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, <a href="http://andrewjkerr.com">Andrew</a> be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!</p>
+
+<ul>
+<li>Slides: <a href="https://github.com/andrewjkerr/xss-presentation">https://github.com/andrewjkerr/xss-presentation</a></li>
+<li>Challenges: <a href="https://github.com/andrewjkerr/xss-challenges">https://github.com/andrewjkerr/xss-challenges</a></li>
+</ul>
+
+
+<p>(Note about the challenge server: it will only be up until next Wednesday! After that, you will have to host them locally.)</p>
 
 <!-- more -->
 

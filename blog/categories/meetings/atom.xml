@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetings | UF Student InfoSec Team]]></title>
+  <link href="http://ufsit.github.io/blog/categories/meetings/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-09-08T21:43:08-04:00</updated>
+  <id>http://ufsit.github.io/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 3-18-2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015/"/>
+    <updated>2015-03-18T15:11:33-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers!</p>
+
+<p>This week we will be getting some insight into the world of malware by watching a DEFCON 18 talk titled: My Life as a Spyware Developer. This will be followed up by a discussion about ethics. We will also talk a bit more about officer positions and how to run. It was announced at the last meeting that elections will happen April 1st!</p>
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://ufsit.org">http://ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SIT Meeting 2-18-2015]]></title>
+    <link href="http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015/"/>
+    <updated>2015-02-18T13:19:19-05:00</updated>
+    <id>http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015</id>
+    <content type="html"><![CDATA[<p>Hello SITers,</p>
+
+<p>This week we will be learning about how the port scanner nmap works by taking a look at some C code and doing some buffer overflow challenges for another prize! If you would like to download the challenges ahead of time you can find them here: <a href="https://github.com/ufsit/overflowchallenges-2-18-2015">https://github.com/ufsit/overflowchallenges-2-18-2015</a>.</p>
+
+<p>Password for gpg will be released at the meeting.</p>
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]</p>
+
+<ul>
+<li> IRC: #ufsit on Freenode</li>
+<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
+<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
+</ul>
+
+
+<p>[Time and Location]</p>
+
+<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
+]]></content>
+  </entry>
+  
+</feed>
