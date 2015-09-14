@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-08T21:53:18-04:00</updated>
+  <updated>2015-09-14T19:52:33-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - September 15, 2015 | Client Side Hacks &amp; Burp Suite]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-%7C-client-side-hacks-and-burp-suite/"/>
+    <updated>2015-09-14T19:51:48-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-|-client-side-hacks-and-burp-suite</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be talking about some client side tricks that can confuse (and exploit!) a backend server and giving a demo of Burp Suite <a href="https://portswigger.net/burp/">https://portswigger.net/burp/</a>.</p>
+
+<!-- more -->
+
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MMA CTF Writeups]]></title>
@@ -526,35 +551,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p>This week, we will be taking a look at file systems which will include some basic data recovery/forensics as well as basic memory analysis!</p>
 
 <p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>[Be Social!]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 9:00pm</p>
-
-<p>CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - October 29, 2014 | Predicting Buffer Size & Shellcode]]></title>
-    <link href="http://ufsit.github.io/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode/"/>
-    <updated>2014-10-27T21:26:21-04:00</updated>
-    <id>http://ufsit.github.io/blog/2014/10/27/meeting-october-29-2014-predicting-buffer-size-shellcode</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we will be familiarizing members with predicting the size of buffers that may have been optimized by using pattern_create.rb and pattern_offset.rb. We&rsquo;ll also be introducing the concept of shellcode along with msfvenom - a useful tool that is part of the metasploit framework.</p>
-
-<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>You can view the doc for this week&rsquo;s meeting here: <a href="http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf">http://sheepshellcode.com/tutorials/RED-MOD/red-mod-2.pdf</a></p>
 
 <p>[Be Social!]</p>
 

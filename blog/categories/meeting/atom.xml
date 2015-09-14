@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-08T21:53:18-04:00</updated>
+  <updated>2015-09-14T19:52:33-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meeting - September 15, 2015 | Client Side Hacks &amp; Burp Suite]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-%7C-client-side-hacks-and-burp-suite/"/>
+    <updated>2015-09-14T19:51:48-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-|-client-side-hacks-and-burp-suite</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be talking about some client side tricks that can confuse (and exploit!) a backend server and giving a demo of Burp Suite <a href="https://portswigger.net/burp/">https://portswigger.net/burp/</a>.</p>
+
+<!-- more -->
+
+
+<p>Hope to see you there!</p>
+
+<p>[Be Social!]<br/>
+IRC: #ufsit on Freenode<br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
@@ -123,33 +148,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 <p>[Time and Location]</p>
 
 <p>Wednesday 7:00pm – 8:00pm | <em>CSE E312</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 3-11-2015 - Decompilers]]></title>
-    <link href="http://ufsit.github.io/blog/2015/03/11/sit-meeting-3-11-2015/"/>
-    <updated>2015-03-11T12:04:26-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/03/11/sit-meeting-3-11-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers,</p>
-
-<p>Meetings will resume this Wednesday with an awesome presentation/series of challenges by our Vice President Daniel Gollahon! This should be a really fun meeting even if you&rsquo;re new to reverse engineering since the only prerequisite is knowing a bit of Java.</p>
-
-<p>If you would like to download the challenges ahead of time you can find them at <a href="https://github.com/ufsit/decompiling-3-11-2015">https://github.com/ufsit/decompiling-3-11-2015</a>. The gpg password will be released on the mailing list after the meeting.</p>
-
-<p>Hope to see you there!</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li>IRC: #ufsit on Freenode</li>
-<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]
-Wednesday 7:00pm – 8:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
