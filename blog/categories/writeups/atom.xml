@@ -4,7 +4,7 @@
   <title><![CDATA[Category: writeups | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/writeups/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-15T18:20:44-04:00</updated>
+  <updated>2015-09-15T19:45:29-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -28,6 +28,7 @@
 <ul>
 <li><a href="http://sheepshellcode.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/">Rock Paper SHELLCODE</a> by Vincent Moscatello</li>
 <li><a href="http://andrewjkerr.com/blog/mma-ctf-writeup/">Login as admin!</a> by Andrew Kerr</li>
+<li><a href="https://gist.github.com/andrewjkerr/24b77be8ef07d3a88586">Smart Cipher System, flag #4</a> by Robert Munyer</li>
 </ul>
 
 ]]></content>
