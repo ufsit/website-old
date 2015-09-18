@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ctf | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/ctf/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-17T11:40:01-04:00</updated>
+  <updated>2015-09-18T14:37:38-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CSAW CTF | Fri, 6pm - Sun, 6pm]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/18/csaw-ctf-%7C-fri-6pm-sun-6pm/"/>
+    <updated>2015-09-18T14:33:51-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/18/csaw-ctf-|-fri-6pm-sun-6pm</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Like we mentioned at Tuesday’s meeting, we’ll be competing in CSAW CTF (<a href="https://ctf.isis.poly.edu/">https://ctf.isis.poly.edu/</a>) this weekend. If you want to come hang out and work on some challenges, we’ll be in CSE E309 starting at:</p>
+
+<p>Friday @ 6pm<br/>
+Saturday @ noon<br/>
+Sunday @ noon</p>
+
+<!-- more -->
+
+
+<p>Can’t make those times? Don’t fret! We’ll be collaborating on the UFSIT IRC (#ufsit on Freenode) and will be posting instructions on how to participate remotely there.</p>
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]
+IRC: #ufsit on Freenode<br/>
+Slack: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a> <br/>
+Twitter: <a href="https://twitter.com">@ufsit</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MMA CTF Writeups]]></title>
