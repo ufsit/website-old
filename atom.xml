@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-18T14:37:25-04:00</updated>
+  <updated>2015-09-21T11:38:12-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-%7C-7pm-%7C-the-back-yard-bar/"/>
+    <updated>2015-09-21T11:35:25-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-|-7pm-|-the-back-yard-bar</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, come join us <strong>Wednesday</strong> at <strong>7pm</strong> at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
+
+<!-- MORE -->
+
+
+<p>SwampSec is a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec.</p>
+
+<p>Hope to see you there!</p>
+
+<p><strong>Please note that we will NOT be meeting in CSE309 on Tuesday!!</strong> We have decided to cancel our Tuesday meeting in the interest of going to SwampSec instead.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CSAW CTF | Fri, 6pm - Sun, 6pm]]></title>
@@ -555,33 +575,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
 
 <p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 9:00pm</p>
-
-<p>CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - November 12, 2014 | Web Servers and HTTP Requests]]></title>
-    <link href="http://ufsit.github.io/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests/"/>
-    <updated>2014-11-11T12:35:10-05:00</updated>
-    <id>http://ufsit.github.io/blog/2014/11/11/meeting-november-12-2014-web-servers-and-http-requests</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we will be installing Apache on our Ubuntu VM and then talking about HTTP requests and the cool things you can do with them!</p>
-
-<p>Make sure to bring your laptop with the VMs that we installed at the beginning of the semester! If you did not get a chance to download them, find an officer and we&rsquo;ll give you them.</p>
-
-<p>[Be Social!]</p>
-
-<p>IRC: #ufsit on Freenode</p>
-
-<p>Website: <a href="http://www.ufsit.org/">http://www.ufsit.org</a></p>
-
-<p>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
 
 <p>[Time and Location]</p>
 

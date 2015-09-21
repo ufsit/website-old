@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: swampsec | UF Student InfoSec Team]]></title>
+  <link href="http://ufsit.github.io/blog/categories/swampsec/atom.xml" rel="self"/>
+  <link href="http://ufsit.github.io/"/>
+  <updated>2015-09-21T11:38:12-04:00</updated>
+  <id>http://ufsit.github.io/</id>
+  <author>
+    <name><![CDATA[UFSIT]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-%7C-7pm-%7C-the-back-yard-bar/"/>
+    <updated>2015-09-21T11:35:25-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-|-7pm-|-the-back-yard-bar</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, come join us <strong>Wednesday</strong> at <strong>7pm</strong> at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
+
+<!-- MORE -->
+
+
+<p>SwampSec is a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec.</p>
+
+<p>Hope to see you there!</p>
+
+<p><strong>Please note that we will NOT be meeting in CSE309 on Tuesday!!</strong> We have decided to cancel our Tuesday meeting in the interest of going to SwampSec instead.</p>
+]]></content>
+  </entry>
+  
+</feed>

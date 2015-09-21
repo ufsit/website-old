@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: meeting | UF Student InfoSec Team]]></title>
+  <title><![CDATA[Category: meeting, | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-09-18T14:37:38-04:00</updated>
+  <updated>2015-09-21T11:38:12-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -14,158 +14,22 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Meeting - September 15, 2015 | Client Side Hacks &amp; Burp Suite]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-%7C-client-side-hacks-and-burp-suite/"/>
-    <updated>2015-09-14T19:51:48-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-|-client-side-hacks-and-burp-suite</id>
+    <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>
+    <link href="http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-%7C-7pm-%7C-the-back-yard-bar/"/>
+    <updated>2015-09-21T11:35:25-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-|-7pm-|-the-back-yard-bar</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
-<p>This week, we&rsquo;ll be talking about some client side tricks that can confuse (and exploit!) a backend server and giving a demo of Burp Suite <a href="https://portswigger.net/burp/">https://portswigger.net/burp/</a>.</p>
+<p>This week, come join us <strong>Wednesday</strong> at <strong>7pm</strong> at The Back Yard Bar (between Boca Fiesta and the Palomino Pool Hall downtown; map: <a href="http://www.swampsec.org/map-web.png">http://www.swampsec.org/map-web.png</a>) for this month&rsquo;s SwampSec!</p>
 
-<!-- more -->
+<!-- MORE -->
 
+
+<p>SwampSec is a gathering of infosec professionals and enthusiasts that takes place from 7 to roughly 9pm on the fourth Wednesday of the month. For more information, check out <a href="http://swampsec.org/">http://swampsec.org/</a> and follow SwampSec on Twitter @swampsec.</p>
 
 <p>Hope to see you there!</p>
 
-<h2>Challenges:</h2>
-
-<h3>canihazadmin</h3>
-
-<p>Become an admin!</p>
-
-<p><a href="https://canihazadmin.herokuapp.com">https://canihazadmin.herokuapp.com</a></p>
-
-<h3>ROBOTS ONLY</h3>
-
-<p>Get the key!</p>
-
-<p><a href="http://lwapd.pythonanywhere.com/robot_club/?k=PfV54DzCVhXz">http://lwapd.pythonanywhere.com/robot_club/?k=PfV54DzCVhXz</a></p>
-
-<h3>Some Arbitrary Website</h3>
-
-<p><a href="http://some.arbitrary.website/">http://some.arbitrary.website/</a></p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/07/meeting-xss-%7C-september-8-2015/"/>
-    <updated>2015-09-07T18:26:45-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/07/meeting-xss-|-september-8-2015</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, <a href="http://andrewjkerr.com">Andrew</a> be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!</p>
-
-<ul>
-<li>Slides: <a href="https://github.com/andrewjkerr/xss-presentation">https://github.com/andrewjkerr/xss-presentation</a></li>
-<li>Challenges: <a href="https://github.com/andrewjkerr/xss-challenges">https://github.com/andrewjkerr/xss-challenges</a></li>
-</ul>
-
-
-<p>(Note about the challenge server: it will only be up until next Wednesday! After that, you will have to host them locally.)</p>
-
-<!-- more -->
-
-
-<p>Also, while you won&rsquo;t need Kali this week, officers will be helping any of you that had trouble installing it (and, just in case you missed it, installation instructions can be found here: <a href="http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/">http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/</a>).</p>
-
-<p>Hope to see you there!<br/>
-~ Andrew</p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 09-01-15]]></title>
-    <link href="http://ufsit.github.io/blog/2015/08/31/sit-meeting-09-01-15/"/>
-    <updated>2015-08-31T22:00:00-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/08/31/sit-meeting-09-01-15</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>Our first meeting of the semester will on <em>TUESDAY</em> (yes, Tuesday) at 6pm in CSE E309. We&rsquo;ll be introducing the club and then learning a bit about SQL injection! While there are computers there, they are limited so we recommend that you bring your own.</p>
-
-<p>Hope to see you there!</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li>IRC: #ufsit on Freenode</li>
-<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-<li>Twitter: @ufsit</li>
-</ul>
-
-
-<p>[Time and Location]</p>
-
-<p>Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 04-08-15]]></title>
-    <link href="http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15/"/>
-    <updated>2015-04-08T18:42:01-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>This week we are back at exploit writing with a new challenge! This challenge will be rather difficult and the source code will not be provided until after someone wins the challenge.</p>
-
-<p><a href="https://github.com/ufsit/exploit-challenge-4-8-2015">https://github.com/ufsit/exploit-challenge-4-8-2015</a></p>
-
-<p>[Be Social!]
-IRC: #ufsit on Freenode
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | CSE E312</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>
-    <link href="http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015/"/>
-    <updated>2015-04-01T15:54:48-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>Today our Vice President Daniel will be giving an awesome presentation about the Heart Bleed Vulnerability. To get hands on experience, you will need to make sure you have filled out the online ethics form at ufsit.org (Giant button that says mailing list) that way you will have access to the ndg virtual machines.</p>
-
-<p>Following Daniel&rsquo;s Presentation/exercises we will be having officer elections for people who submitted an email before 7:00pm on Tuesday with what position they would like to run for.</p>
-
-<p>Also due to a scheduling conflict we will be meeting in CSE 312 instead of CSE 309 for the rest of the semester! This room is located in the same area as the lobby with couches.</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li>IRC: #ufsit on Freenode</li>
-<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | <em>CSE E312</em></p>
+<p><strong>Please note that we will NOT be meeting in CSE309 on Tuesday!!</strong> We have decided to cancel our Tuesday meeting in the interest of going to SwampSec instead.</p>
 ]]></content>
   </entry>
   
