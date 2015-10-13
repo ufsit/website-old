@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-10-06T18:22:22-04:00</updated>
+  <updated>2015-10-12T20:12:20-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pwned by the Owner | Tuesday Oct 13 @ 6pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-%7C-tuesday-oct-13-at-6pm-in-cse-e309/"/>
+    <updated>2015-10-12T20:09:02-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-|-tuesday-oct-13-at-6pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be watching Zoz&rsquo;s DEFCON 18 talk &ldquo;Pwned by the Owner (What happens when you steal a hacker&rsquo;s computer)&rdquo; and then discussing some of the challenges from last week.</p>
+
+<!-- MORE -->
+
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mini-CTF | Tuesday Oct 6 @ 6pm in CSE E309]]></title>
@@ -66,7 +93,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#x3a;&#108;&#x69;&#115;&#116;&#x73;&#101;&#114;&#118;&#64;&#x6c;&#105;&#115;&#116;&#115;&#x2e;&#117;&#102;&#108;&#46;&#101;&#100;&#x75;">&#108;&#105;&#x73;&#116;&#x73;&#101;&#114;&#118;&#x40;&#108;&#105;&#x73;&#116;&#x73;&#x2e;&#x75;&#x66;&#108;&#46;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x6c;&#105;&#115;&#x74;&#x73;&#101;&#114;&#x76;&#64;&#x6c;&#x69;&#115;&#x74;&#115;&#46;&#x75;&#x66;&#108;&#x2e;&#x65;&#100;&#117;">&#x6c;&#x69;&#x73;&#116;&#x73;&#x65;&#x72;&#x76;&#x40;&#x6c;&#x69;&#115;&#116;&#115;&#46;&#x75;&#102;&#108;&#46;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -556,33 +583,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <h2>Time and Location</h2>
 
 <p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ghost In The Shellcode CTF 2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/01/16/ghost-in-the-shellcode-ctf-2015/"/>
-    <updated>2015-01-16T01:14:55-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/01/16/ghost-in-the-shellcode-ctf-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>If you missed last nights meeting, we announced that we will be participating in the Ghost in the Shellcode CTF! Last year&rsquo;s CTF was extremely fun and was focused on hacking the Pwn Adventure 2 videogame. We killed a million boars, gave ourselves super speed, and even fought a pack of angry bears with AK47s that, errr, had the right to bear arms. And who could forget the best credits/crypto challenge a game has ever had <a href="https://www.youtube.com/watch?v=JtHsIWVceQo">https://www.youtube.com/watch?v=JtHsIWVceQo</a>?</p>
-
-<p>This year&rsquo;s description:
-​</p>
-
-<blockquote><p>How do you top the world&rsquo;s first hacking CTF played live in an actual custom CTF/MMORPG? By doing it again, and even better! We&rsquo;ve even got a dedicated website at <a href="http://www.pwnadventure.com">pwnadventure.com</a> where you can find out more information about this new world of Pwnie Island, this time a true open-world game, with more challenges unique to game hacking.</p></blockquote>
-
-<p>Come out and join us for the first CTF we are participating in for 2015!</p>
-
-<p>Details:</p>
-
-<ul>
-<li>Date &ndash; Friday 1/16/15</li>
-<li>Time &ndash; 6:00PM</li>
-<li>Place &ndash; CSE 309</li>
-</ul>
-
 ]]></content>
   </entry>
   
