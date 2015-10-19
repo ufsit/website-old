@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-10-12T20:12:20-04:00</updated>
+  <updated>2015-10-19T18:54:39-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Intro to Networking &amp; Wireshark | Tues Oct 20 @ 6pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-%7C-tues-oct-20-at-6pm-in-cse-e309/"/>
+    <updated>2015-10-19T18:52:23-04:00</updated>
+    <id>http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-|-tues-oct-20-at-6pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be diving into an introduction to networking and Wireshark. Please come with Wireshark, cURL, and Chrome installed in order to follow along with the presentation!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="http://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pwned by the Owner | Tuesday Oct 13 @ 6pm in CSE E309]]></title>
@@ -93,7 +116,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x6c;&#105;&#115;&#x74;&#x73;&#101;&#114;&#x76;&#64;&#x6c;&#x69;&#115;&#x74;&#115;&#46;&#x75;&#x66;&#108;&#x2e;&#x65;&#100;&#117;">&#x6c;&#x69;&#x73;&#116;&#x73;&#x65;&#x72;&#x76;&#x40;&#x6c;&#x69;&#115;&#116;&#115;&#46;&#x75;&#102;&#108;&#46;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x6c;&#x69;&#x73;&#x74;&#x73;&#101;&#x72;&#x76;&#64;&#108;&#x69;&#115;&#116;&#x73;&#x2e;&#117;&#102;&#x6c;&#x2e;&#x65;&#100;&#117;">&#108;&#x69;&#115;&#116;&#x73;&#101;&#114;&#x76;&#x40;&#x6c;&#105;&#115;&#x74;&#x73;&#x2e;&#117;&#102;&#x6c;&#x2e;&#x65;&#x64;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -556,33 +579,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p style="margin-top:0px"><a href="https://www.twitter.com/swampsec">https://www.twitter.com/swampsec</a></p>
 
 <p>-jhs</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 1/21/2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/01/21/meeting-1-slash-21-slash-2015/"/>
-    <updated>2015-01-21T00:49:44-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/01/21/meeting-1-slash-21-slash-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers,</p>
-
-<p>This week we will be taking a closer look at some of the tools described by atlas and getting hands on with some x86 binaries! To encourage everyone to solve them as fast as they can, we will be giving out a signed copy of &ldquo;Hacking Exposed 7&rdquo; to the first person to email me all the keys after the challenges are released.</p>
-
-<p>President of SIT, Vincent Moscatello</p>
-
-<h2>Be Social!</h2>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li> <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-<li> <a href="https://twitter.com/ufsit">@ufsit</a></li>
-</ul>
-
-
-<h2>Time and Location</h2>
-
-<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
