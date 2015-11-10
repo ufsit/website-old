@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-11-03T00:10:37-05:00</updated>
+  <updated>2015-11-10T00:05:57-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My Life As A Spyware Developer | Tues Nov 10 @ 6pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/11/10/my-life-as-a-spyware-developer-%7C-tues-nov-10-at-6pm-in-cse-e309/"/>
+    <updated>2015-11-10T00:00:38-05:00</updated>
+    <id>http://ufsit.github.io/blog/2015/11/10/my-life-as-a-spyware-developer-|-tues-nov-10-at-6pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;ll be watching Garry Pejski&rsquo;s DEFCON 18 talk &ldquo;My Life As a Spyware Developer&rdquo;. Hope to see you there!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/@ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+Tuesday 6:00pm – 7:00pm | CSE E309</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[John Sawyer - “The Life of a Penetration Tester” | Tues Nov 3 @ 6pm in CSE E309]]></title>
@@ -166,7 +189,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x6c;&#x69;&#x73;&#116;&#x73;&#x65;&#114;&#118;&#x40;&#x6c;&#105;&#115;&#116;&#x73;&#46;&#x75;&#102;&#108;&#46;&#101;&#100;&#117;">&#x6c;&#105;&#115;&#116;&#115;&#101;&#114;&#x76;&#64;&#x6c;&#105;&#x73;&#x74;&#x73;&#46;&#x75;&#x66;&#x6c;&#x2e;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#108;&#105;&#115;&#116;&#115;&#x65;&#x72;&#x76;&#64;&#108;&#105;&#x73;&#116;&#115;&#46;&#x75;&#102;&#x6c;&#46;&#x65;&#100;&#x75;">&#x6c;&#x69;&#x73;&#116;&#x73;&#101;&#x72;&#118;&#64;&#x6c;&#105;&#x73;&#x74;&#115;&#46;&#117;&#102;&#108;&#46;&#101;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -558,31 +581,6 @@ Wednesday 7:00pm – 8:00pm | CSE E309</p>
 <p>[Time and Location]</p>
 
 <p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 2-11-2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015/"/>
-    <updated>2015-02-11T14:29:42-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/02/11/sit-meeting-2-slash-11-slash-2015</id>
-    <content type="html"><![CDATA[<p>Hello there SITers! This week we will be taking another look at stack based exploitation. We worked on this last semester, but it&rsquo;s a good idea to become familiar with this before we move on to harder exploits like format string vulnerabilities and heap based attacks.</p>
-
-<p>Hope to see you there!</p>
-
-<p>-Vincent</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]
-Wednesday 7:00pm – 8:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
