@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting, | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-11-10T00:05:57-05:00</updated>
+  <updated>2015-11-16T22:12:55-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lightning Talks | Tues Nov 17 @ 6pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/11/16/lightning-talks-%7C-tues-nov-17-at-6pm-in-cse-e309/"/>
+    <updated>2015-11-16T22:10:39-05:00</updated>
+    <id>http://ufsit.github.io/blog/2015/11/16/lightning-talks-|-tues-nov-17-at-6pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Just a reminder that we&rsquo;ll be holding member lightning talks tomorrow! Come out and hear what your fellow members are working on in the wide world of info-sec!</p>
+
+<!-- MORE -->
+
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2015-11-10T00:05:57-05:00</updated>
+  <updated>2015-11-16T22:12:55-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lightning Talks | Tues Nov 17 @ 6pm in CSE E309]]></title>
+    <link href="http://ufsit.github.io/blog/2015/11/16/lightning-talks-%7C-tues-nov-17-at-6pm-in-cse-e309/"/>
+    <updated>2015-11-16T22:10:39-05:00</updated>
+    <id>http://ufsit.github.io/blog/2015/11/16/lightning-talks-|-tues-nov-17-at-6pm-in-cse-e309</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Just a reminder that we&rsquo;ll be holding member lightning talks tomorrow! Come out and hear what your fellow members are working on in the wide world of info-sec!</p>
+
+<!-- MORE -->
+
+
+<p>Hope to see you there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Life As A Spyware Developer | Tues Nov 10 @ 6pm in CSE E309]]></title>
@@ -189,7 +216,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#108;&#105;&#115;&#116;&#115;&#x65;&#x72;&#x76;&#64;&#108;&#105;&#x73;&#116;&#115;&#46;&#x75;&#102;&#x6c;&#46;&#x65;&#100;&#x75;">&#x6c;&#x69;&#x73;&#116;&#x73;&#101;&#x72;&#118;&#64;&#x6c;&#105;&#x73;&#x74;&#115;&#46;&#117;&#102;&#108;&#46;&#101;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#58;&#108;&#x69;&#115;&#116;&#115;&#x65;&#x72;&#x76;&#x40;&#108;&#x69;&#x73;&#x74;&#115;&#x2e;&#117;&#102;&#108;&#46;&#x65;&#100;&#x75;">&#108;&#105;&#115;&#116;&#x73;&#x65;&#x72;&#118;&#x40;&#x6c;&#105;&#x73;&#x74;&#115;&#46;&#x75;&#x66;&#x6c;&#x2e;&#101;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -553,34 +580,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 
 <p>[Time and Location]
 Wednesday 7:00pm – 8:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 2-18-2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015/"/>
-    <updated>2015-02-18T13:19:19-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/02/18/sit-meeting-2-slash-18-slash-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers,</p>
-
-<p>This week we will be learning about how the port scanner nmap works by taking a look at some C code and doing some buffer overflow challenges for another prize! If you would like to download the challenges ahead of time you can find them here: <a href="https://github.com/ufsit/overflowchallenges-2-18-2015">https://github.com/ufsit/overflowchallenges-2-18-2015</a>.</p>
-
-<p>Password for gpg will be released at the meeting.</p>
-
-<p>Hope to see you there!</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
