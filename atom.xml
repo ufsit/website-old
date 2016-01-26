@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-01-18T17:05:37-05:00</updated>
+  <updated>2016-01-26T15:17:57-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Resume Critiques | Tues Jan 26 @ 6pm in CSE E312]]></title>
+    <link href="http://ufsit.github.io/blog/2016/01/26/resume-critiques-%7C-tues-jan-26-at-6pm-in-cse-e312/"/>
+    <updated>2016-01-26T15:15:00-05:00</updated>
+    <id>http://ufsit.github.io/blog/2016/01/26/resume-critiques-|-tues-jan-26-at-6pm-in-cse-e312</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Since tomorrow is Career Showcase, we&rsquo;ll be doing resume critiques tonight! Make sure to bring your resumes (either digitally or physically).</p>
+
+<!-- MORE -->
+
+
+<p>Also, a quick reminder that SwampSec is tomorrow night at 7pm at the Back Yard Bar!</p>
+
+<p>Hope to see you all there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Intro to SIT and InfoSec | Tues Jan 19 @ 6pm in CSE E312]]></title>
@@ -245,7 +274,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x6c;&#105;&#x73;&#x74;&#115;&#101;&#114;&#x76;&#x40;&#x6c;&#105;&#x73;&#116;&#115;&#46;&#117;&#102;&#108;&#x2e;&#101;&#x64;&#117;">&#x6c;&#105;&#x73;&#x74;&#115;&#x65;&#x72;&#x76;&#64;&#x6c;&#x69;&#x73;&#116;&#x73;&#x2e;&#117;&#x66;&#108;&#x2e;&#x65;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#108;&#x69;&#x73;&#x74;&#x73;&#x65;&#114;&#118;&#x40;&#108;&#x69;&#x73;&#x74;&#115;&#x2e;&#x75;&#x66;&#x6c;&#46;&#x65;&#x64;&#x75;">&#x6c;&#x69;&#115;&#116;&#115;&#x65;&#114;&#118;&#64;&#108;&#x69;&#x73;&#x74;&#115;&#46;&#x75;&#102;&#x6c;&#x2e;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -556,32 +585,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 <p>[Time and Location]</p>
 
 <p>Wednesday 7:00pm – 8:00pm | <em>CSE E312</em></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 3-18-2015]]></title>
-    <link href="http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015/"/>
-    <updated>2015-03-18T15:11:33-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/03/18/sit-meeting-3-18-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>This week we will be getting some insight into the world of malware by watching a DEFCON 18 talk titled: My Life as a Spyware Developer. This will be followed up by a discussion about ethics. We will also talk a bit more about officer positions and how to run. It was announced at the last meeting that elections will happen April 1st!</p>
-
-<p>Hope to see you there!</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li> IRC: #ufsit on Freenode</li>
-<li> Website: <a href="http://ufsit.org">http://ufsit.org</a></li>
-<li> Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | CSE E309</p>
 ]]></content>
   </entry>
   

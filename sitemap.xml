@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://ufsit.github.io/blog/2016/01/26/resume-critiques-%7C-tues-jan-26-at-6pm-in-cse-e312/</loc>
+    
+    <lastmod>2016-01-26T15:15:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://ufsit.github.io/blog/2016/01/18/intro-to-sit-and-infosec-%7C-tues-jan-19-at-6pm-in-cse-e312/</loc>
     
     <lastmod>2016-01-18T17:02:06-05:00</lastmod>
@@ -1101,56 +1109,63 @@
   
   <url>
     <loc>http://ufsit.github.io/about/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/calendar/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/contact/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/join/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://ufsit.github.io/first/</loc>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/blog/archives/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/blog/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://ufsit.github.io/signin/</loc>
-    <lastmod>2016-01-18T17:05:37-05:00</lastmod>
+    <lastmod>2016-01-26T15:17:57-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
