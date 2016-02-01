@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-02-01T16:53:31-05:00</updated>
+  <updated>2016-02-01T18:08:21-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CCDC Interest Meeting | Tues Feb 2 @ 7pm in CSE E312]]></title>
+    <link href="http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-%7C-tues-feb-2-at-7pm-in-cse-e312/"/>
+    <updated>2016-02-01T18:03:51-05:00</updated>
+    <id>http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-|-tues-feb-2-at-7pm-in-cse-e312</id>
+    <content type="html"><![CDATA[<p>Hello everyone,</p>
+
+<p>UF is making moves to participate in the Southeast Collegiate Cyber Defense Competition (SECCDC) for the first time ever. This is really exciting and is something UF SIT and others have wanted to see for a long time. Just a little bit more about me and my background.</p>
+
+<!-- MORE -->
+
+
+<p>I&rsquo;m a recent graduate of the University of Central Florida where I was a member of their security club, HackUCF, and a CCDC team member for two years. My first year playing was in 2013 where we beat our regional competition and moved on to the National CCDC (NCCDC). We lost NCCDC, but we returned in 2014 with a vengeance to win the national title. Now that I&rsquo;m a graduate student at UF, I want to help the infosec team here become competitive in CCDC.</p>
+
+<p>If you are on this list, then you are interested in learning more about the competition and possibly participating in it. Here&rsquo;s the competition gist:</p>
+
+<p>~ ~ ~ ~</p>
+
+<p>CCDC is <strong>blue team</strong> simulation. You are dropped in to an unknown network with machines running unknown services. The story goes that the old IT staff was fired for incompetence. It&rsquo;s your job to clean up their mess and get the machines and services in to working order as quick as possible. The messy Windows and Linux servers are running anything from webservers, FTP daemons, and identity management services (active directory). Now, cleaning up some broken and out of date machines would be fairly easy if that was the whole competition, but it&rsquo;s not that simple.</p>
+
+<p>While you are sifting through the rubble your &ldquo;boss&rdquo; (the competition organizers) are sending you a flood of <strong>business injects</strong>, which are real-time tasks that need to be completed for points. The more you complete, the more points you get. Oh and while you are cleaning up the mess and scrambling for your boss the <strong>red team</strong> is skulking around your network. Red team&rsquo;s job is to try and steal your data and keep your services down to deny you of <strong>Service Level Agreement</strong> (SLA) points. If red team steals some data from your network then you lose points from your gained inject and SLA points. You are able to recover some of the lost points by completing an <strong>incident report</strong>. The competition scoring is essentially this:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>SLA + Solved Injects = Gained Score
+</span><span class='line'>Gained Score - Red Team Incidents + Incident Reports = Final Score</span></code></pre></td></tr></table></div></figure>
+
+
+<p>If you&rsquo;ve played a CTF before, this competition is very different, but just as fun and a lot more intense. If you participate you are sure to walk away knowing a lot more and with plenty of memories. We all have the opportunity to be on the ground floor of this competition at UF.</p>
+
+<p>~ ~ ~</p>
+
+<p>Here&rsquo;s what we need to play and represent the University of Florida and time is unfortunately short:</p>
+
+<ul>
+<li>We need a roster of 12 people, 8 participants for the upcoming qualifiers and 4 alternates. Once we have this list of 12 it cannot be changed</li>
+<li>Out of these 8 participants, a captain and co-captain need to be chosen</li>
+<li>We need to have the quickest crash course known to humanity on how the play and do well in the competition, but it&rsquo;s okay if we don&rsquo;t know everything to a tee. Playing the competition itself will be plenty of practice.</li>
+</ul>
+
+
+<p>Based on the doodle poll we are going to have our first meeting on <strong>Tuesday, February 2nd, 2015 @ 7PM</strong> or directly after the UF SIT meeting at 6PM, which ever comes last. We&rsquo;re planning for at least an hour long meeting. We will be going over competition rules, how to play and win, and we&rsquo;re going to be getting a team roster (12 people, 8 will actually play) together.</p>
+
+<p>Looking forward to playing CCDC,<br/>
+Grant Hernandez</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shellshock | Tues Feb 2 @ 6pm in CSE E312]]></title>
@@ -307,7 +355,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#x69;&#108;&#116;&#111;&#58;&#108;&#x69;&#115;&#x74;&#x73;&#x65;&#114;&#118;&#x40;&#x6c;&#105;&#x73;&#116;&#115;&#x2e;&#x75;&#102;&#108;&#46;&#101;&#100;&#117;">&#108;&#x69;&#x73;&#116;&#115;&#x65;&#x72;&#x76;&#x40;&#x6c;&#105;&#115;&#x74;&#115;&#x2e;&#x75;&#102;&#x6c;&#46;&#101;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#108;&#x69;&#x73;&#x74;&#115;&#x65;&#x72;&#118;&#64;&#x6c;&#x69;&#x73;&#x74;&#115;&#46;&#x75;&#x66;&#108;&#46;&#101;&#100;&#x75;">&#x6c;&#105;&#115;&#116;&#115;&#x65;&#114;&#118;&#x40;&#x6c;&#x69;&#115;&#116;&#115;&#x2e;&#x75;&#102;&#x6c;&#x2e;&#x65;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -568,28 +616,6 @@ CSE E309</p>
 <p>[Time and Location]</p>
 
 <p>Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 04-08-15]]></title>
-    <link href="http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15/"/>
-    <updated>2015-04-08T18:42:01-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/04/08/sit-meeting-04-08-15</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>This week we are back at exploit writing with a new challenge! This challenge will be rather difficult and the source code will not be provided until after someone wins the challenge.</p>
-
-<p><a href="https://github.com/ufsit/exploit-challenge-4-8-2015">https://github.com/ufsit/exploit-challenge-4-8-2015</a></p>
-
-<p>[Be Social!]
-IRC: #ufsit on Freenode
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></p>
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | CSE E312</p>
 ]]></content>
   </entry>
   
