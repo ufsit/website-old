@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-01-26T15:17:57-05:00</updated>
+  <updated>2016-02-01T16:53:31-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Shellshock | Tues Feb 2 @ 6pm in CSE E312]]></title>
+    <link href="http://ufsit.github.io/blog/2016/02/01/shellshock-%7C-tues-feb-2-at-6pm-in-cse-e312/"/>
+    <updated>2016-02-01T16:49:51-05:00</updated>
+    <id>http://ufsit.github.io/blog/2016/02/01/shellshock-|-tues-feb-2-at-6pm-in-cse-e312</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>We&rsquo;ve got quite a few things going on tomorrow night!</p>
+
+<p>For our main topic, Nick will be demonstrating the Shellshock exploit and talking about how we can use Shellshock to break into unpatched systems. After the short presentation, we&rsquo;ll be giving you all some virtual machines to break into to practice what was taught! If you haven&rsquo;t signed an ethics agreement, please make sure to <a href="http://ufsit.org/join/">sign one</a> before the meeting tomorrow night.</p>
+
+<!-- MORE -->
+
+
+<p>And, if that wasn&rsquo;t cool enough, the first ever UF CCDC interest meeting is happening right after SIT! At this meeting, Grant will be going over competition rules, how to play and win, and how we&rsquo;ll be fielding a team of superstar defenders. If you&rsquo;re interested in CCDC at all, please stick around afterwards!</p>
+
+<p>But first, we&rsquo;ll be voting on the constitution changes that were announced at the last meeting. As mentioned, we have a pull request out on GitHub with our proposed changes: <a href="https://github.com/ufsit/documents/pull/1.">https://github.com/ufsit/documents/pull/1.</a> Feel free to review those before coming to the meeting and voting on them.</p>
+
+<p>Hope to see you all there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://slack.ufcise.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Resume Critiques | Tues Jan 26 @ 6pm in CSE E312]]></title>
@@ -274,7 +307,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#108;&#x69;&#x73;&#x74;&#x73;&#x65;&#114;&#118;&#x40;&#108;&#x69;&#x73;&#x74;&#115;&#x2e;&#x75;&#x66;&#x6c;&#46;&#x65;&#x64;&#x75;">&#x6c;&#x69;&#115;&#116;&#115;&#x65;&#114;&#118;&#64;&#108;&#x69;&#x73;&#x74;&#115;&#46;&#x75;&#102;&#x6c;&#x2e;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#x69;&#108;&#116;&#111;&#58;&#108;&#x69;&#115;&#x74;&#x73;&#x65;&#114;&#118;&#x40;&#x6c;&#105;&#x73;&#116;&#115;&#x2e;&#x75;&#102;&#108;&#46;&#101;&#100;&#117;">&#108;&#x69;&#x73;&#116;&#115;&#x65;&#x72;&#x76;&#x40;&#x6c;&#105;&#115;&#x74;&#115;&#x2e;&#x75;&#102;&#x6c;&#46;&#101;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -557,34 +590,6 @@ Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsi
 <p>[Time and Location]</p>
 
 <p>Wednesday 7:00pm – 8:00pm | CSE E312</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SIT Meeting 4-1-2015 - Heartbleed]]></title>
-    <link href="http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015/"/>
-    <updated>2015-04-01T15:54:48-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/04/01/sit-meeting-4-1-2015</id>
-    <content type="html"><![CDATA[<p>Hello SITers!</p>
-
-<p>Today our Vice President Daniel will be giving an awesome presentation about the Heart Bleed Vulnerability. To get hands on experience, you will need to make sure you have filled out the online ethics form at ufsit.org (Giant button that says mailing list) that way you will have access to the ndg virtual machines.</p>
-
-<p>Following Daniel&rsquo;s Presentation/exercises we will be having officer elections for people who submitted an email before 7:00pm on Tuesday with what position they would like to run for.</p>
-
-<p>Also due to a scheduling conflict we will be meeting in CSE 312 instead of CSE 309 for the rest of the semester! This room is located in the same area as the lobby with couches.</p>
-
-<p>[Be Social!]</p>
-
-<ul>
-<li>IRC: #ufsit on Freenode</li>
-<li>Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a></li>
-<li>Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a></li>
-</ul>
-
-
-<p>[Time and Location]</p>
-
-<p>Wednesday 7:00pm – 8:00pm | <em>CSE E312</em></p>
 ]]></content>
   </entry>
   
