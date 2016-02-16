@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-02-09T12:59:38-05:00</updated>
+  <updated>2016-02-16T01:26:55-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[C Bugs | Tues Feb 16 @ 6pm in CSE E312]]></title>
+    <link href="http://ufsit.github.io/blog/2016/02/16/c-bugs-%7C-tues-feb-16-at-6pm-in-cse-e312/"/>
+    <updated>2016-02-16T01:22:09-05:00</updated>
+    <id>http://ufsit.github.io/blog/2016/02/16/c-bugs-|-tues-feb-16-at-6pm-in-cse-e312</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, our former president Vincent will be giving a talk on C and C bugs! He&rsquo;ll first be going through a tutorial on C followed by some of the more common C bugs as well as fixes and exploits for them.</p>
+
+<!-- MORE -->
+
+
+<p>Afterwards (around 7:30pm), Grant will be holding a debrief for CCDC. If you&rsquo;re unaware, the team made it to the SECCDC regionals! Grant will be talking about how the team did in the competition, what happened during the preliminaries, and what to expect next at regionals.</p>
+
+<p>Hope to see you all there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[From SQL injection to Shell | Tues Feb 9 @ 6pm in CSE E312]]></title>
@@ -349,7 +378,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#x6c;&#x69;&#115;&#116;&#x73;&#101;&#114;&#x76;&#64;&#x6c;&#x69;&#115;&#116;&#115;&#x2e;&#117;&#102;&#108;&#46;&#101;&#x64;&#x75;">&#108;&#105;&#115;&#116;&#x73;&#x65;&#x72;&#x76;&#64;&#x6c;&#105;&#115;&#x74;&#x73;&#46;&#117;&#102;&#108;&#x2e;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#108;&#x69;&#115;&#x74;&#115;&#101;&#x72;&#118;&#64;&#108;&#105;&#x73;&#x74;&#115;&#x2e;&#x75;&#102;&#x6c;&#x2e;&#101;&#100;&#117;">&#108;&#105;&#x73;&#116;&#115;&#101;&#x72;&#118;&#x40;&#108;&#x69;&#x73;&#x74;&#115;&#x2e;&#117;&#102;&#108;&#46;&#101;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -543,46 +572,6 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
 <p>If you have any issues, please let us know in #ufsit on Freenode!</p>
 
 <p>~ Andrew</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MMA CTF - Fri Sept 4 @ 8pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309/"/>
-    <updated>2015-09-04T13:48:26-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>Like we mentioned at Tuesday&rsquo;s meeting, we&rsquo;ll be competing in the MMA CTF (<a href="https://uecmma.github.io/mmactf/">https://uecmma.github.io/mmactf/</a>) this weekend. If you want to come hang out and work on some challenges, we&rsquo;ll be in CSE E309 from:</p>
-
-<ul>
-<li>8pm - 11pm on Friday</li>
-<li>Noon - 4pm on Saturday</li>
-</ul>
-
-
-<!-- more -->
-
-
-<p>Can&rsquo;t make those times? Don&rsquo;t fret! We&rsquo;ll be collaborating on the UFSIT IRC (#ufsit on Freenode) and will be posting instructions on how to participate remotely there.</p>
-
-<p>Though, if you&rsquo;re planning on coming to compete in person, we ask that you bring a laptop with a Kali Linux VM on it. We&rsquo;ll be sending out instructions on how to set that up soon.</p>
-
-<p>Hope to see you there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Slack: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a>  <br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a>  <br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-8pm - 11pm on Friday<br/>
-Noon - 4pm on Saturday<br/>
-CSE E309</p>
 ]]></content>
   </entry>
   
