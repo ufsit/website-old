@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-02-16T01:26:55-05:00</updated>
+  <updated>2016-04-17T17:57:27-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Security Internships and Jobs Panel | Tues Apr 19 @ 6pm in CSE E312]]></title>
+    <link href="http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-%7C-tues-apr-19-at-6pm-in-cse-e312/"/>
+    <updated>2016-04-17T17:50:24-04:00</updated>
+    <id>http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-|-tues-apr-19-at-6pm-in-cse-e312</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>This week, we&rsquo;re going to wind down the semester with a panel of some of our awesome graduating seniors to discuss security jobs and internships! We&rsquo;ll be discussing topics such as getting a security position, what a security role entails, and how security is involved in a general developer role as well as any questions you have.</p>
+
+<!-- MORE -->
+
+
+<p>Hope to see you all there!</p>
+
+<p>~ Andrew</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[C Bugs | Tues Feb 16 @ 6pm in CSE E312]]></title>
@@ -378,7 +405,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#108;&#x69;&#115;&#x74;&#115;&#101;&#x72;&#118;&#64;&#108;&#105;&#x73;&#x74;&#115;&#x2e;&#x75;&#102;&#x6c;&#x2e;&#101;&#100;&#117;">&#108;&#105;&#x73;&#116;&#115;&#101;&#x72;&#118;&#x40;&#108;&#x69;&#x73;&#x74;&#115;&#x2e;&#117;&#102;&#108;&#46;&#101;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#108;&#x69;&#115;&#116;&#115;&#x65;&#x72;&#118;&#64;&#108;&#105;&#x73;&#116;&#x73;&#46;&#x75;&#102;&#x6c;&#46;&#101;&#x64;&#x75;">&#x6c;&#x69;&#x73;&#116;&#115;&#x65;&#114;&#x76;&#64;&#108;&#105;&#x73;&#116;&#115;&#46;&#x75;&#x66;&#108;&#46;&#x65;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -530,48 +557,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kali Linux VM Installation Instructions]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions/"/>
-    <updated>2015-09-04T13:59:25-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/04/kali-linux-vm-installation-instructions</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>For some meetings and CTFs this semester, you&rsquo;re going to want a Kali Linux VM. To set this up, you&rsquo;ll want to download and install VirtualBox (free, <a href="https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a>) OR use your CISE OnTheHub store account to get VMWare for free (check your CISE email for instructions on activating your account).</p>
-
-<p>Here are the instructions for getting Kali Linux set up in either VMWare or VirtualBox:</p>
-
-<!-- more -->
-
-
-<p>VirtualBox:</p>
-
-<ol>
-<li>Download the &lsquo;Kali Linux 64 bit VBox&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
-<li>Extract the .7z file.</li>
-<li>Double click on the &lsquo;.ova&rsquo; file and follow VirtualBox&rsquo;s installation prompt.</li>
-<li>Launch it!</li>
-<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
-</ol>
-
-
-<p>VMWare:</p>
-
-<ol>
-<li>Download the &lsquo;Kali Linux 64 bit VM&rsquo; image from <a href="https://www.offensive-security.com/kali-linux-vmware-arm-image-download">https://www.offensive-security.com/kali-linux-vmware-arm-image-download</a> (torrent is recommended!).</li>
-<li>Extract the .7z file and navigate into the unzipped directory.</li>
-<li>Double click on the &lsquo;.vmx&rsquo; file to open the Virtual Machine! (Note: if you want to move this into a different directory, do that before opening it!)</li>
-<li>Use &lsquo;root&rsquo; as the username and &lsquo;toor&rsquo; as the password to login.</li>
-<li>We recommend changing the default &lsquo;toor&rsquo; password to something a bit stronger and less default-y.</li>
-</ol>
-
-
-<p>If you have any issues, please let us know in #ufsit on Freenode!</p>
-
-<p>~ Andrew</p>
 ]]></content>
   </entry>
   
