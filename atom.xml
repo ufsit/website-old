@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-08-31T09:39:37-04:00</updated>
+  <updated>2016-09-06T17:28:48-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Security Internships and Jobs Panel | Tues Apr 19 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-%7C-tues-apr-19-at-6pm-in-cse-e312/"/>
-    <updated>2016-04-17T17:50:24-04:00</updated>
+    <updated>2016-04-17T14:50:24-07:00</updated>
     <id>http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-|-tues-apr-19-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -42,9 +42,9 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   
   <entry>
     <title type="html"><![CDATA[C Bugs | Tues Feb 16 @ 6pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/02/16/c-bugs-%7C-tues-feb-16-at-6pm-in-cse-e312/"/>
-    <updated>2016-02-16T01:22:09-05:00</updated>
-    <id>http://ufsit.github.io/blog/2016/02/16/c-bugs-|-tues-feb-16-at-6pm-in-cse-e312</id>
+    <link href="http://ufsit.github.io/blog/2016/02/15/c-bugs-%7C-tues-feb-16-at-6pm-in-cse-e312/"/>
+    <updated>2016-02-15T22:22:09-08:00</updated>
+    <id>http://ufsit.github.io/blog/2016/02/15/c-bugs-|-tues-feb-16-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, our former president Vincent will be giving a talk on C and C bugs! He&rsquo;ll first be going through a tutorial on C followed by some of the more common C bugs as well as fixes and exploits for them.</p>
@@ -72,7 +72,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[From SQL injection to Shell | Tues Feb 9 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/02/09/from-sql-injection-to-shell-%7C-tues-feb-9-at-6pm-in-cse-e312/"/>
-    <updated>2016-02-09T12:52:41-05:00</updated>
+    <updated>2016-02-09T09:52:41-08:00</updated>
     <id>http://ufsit.github.io/blog/2016/02/09/from-sql-injection-to-shell-|-tues-feb-9-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -99,7 +99,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[CCDC Interest Meeting | Tues Feb 2 @ 7pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-%7C-tues-feb-2-at-7pm-in-cse-e312/"/>
-    <updated>2016-02-01T18:23:40-05:00</updated>
+    <updated>2016-02-01T15:23:40-08:00</updated>
     <id>http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-|-tues-feb-2-at-7pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey everyone! UF is making moves to participate in the Southeast Collegiate Cyber Defense Competition (SECCDC) for the first time ever. This is really exciting and is something UF&rsquo;s security club and others have wanted to see for a while. Here&rsquo;s what the competition is about:</p>
 
@@ -114,7 +114,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Shellshock | Tues Feb 2 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/02/01/shellshock-%7C-tues-feb-2-at-6pm-in-cse-e312/"/>
-    <updated>2016-02-01T16:49:51-05:00</updated>
+    <updated>2016-02-01T13:49:51-08:00</updated>
     <id>http://ufsit.github.io/blog/2016/02/01/shellshock-|-tues-feb-2-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -147,7 +147,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Resume Critiques | Tues Jan 26 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/01/26/resume-critiques-%7C-tues-jan-26-at-6pm-in-cse-e312/"/>
-    <updated>2016-01-26T15:15:00-05:00</updated>
+    <updated>2016-01-26T12:15:00-08:00</updated>
     <id>http://ufsit.github.io/blog/2016/01/26/resume-critiques-|-tues-jan-26-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -176,7 +176,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Intro to SIT and InfoSec | Tues Jan 19 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/01/18/intro-to-sit-and-infosec-%7C-tues-jan-19-at-6pm-in-cse-e312/"/>
-    <updated>2016-01-18T17:02:06-05:00</updated>
+    <updated>2016-01-18T14:02:06-08:00</updated>
     <id>http://ufsit.github.io/blog/2016/01/18/intro-to-sit-and-infosec-|-tues-jan-19-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
@@ -205,7 +205,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Lightning Talks | Tues Nov 17 @ 6pm in CSE E309]]></title>
     <link href="http://ufsit.github.io/blog/2015/11/16/lightning-talks-%7C-tues-nov-17-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-16T22:10:39-05:00</updated>
+    <updated>2015-11-16T19:10:39-08:00</updated>
     <id>http://ufsit.github.io/blog/2015/11/16/lightning-talks-|-tues-nov-17-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -231,9 +231,9 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   
   <entry>
     <title type="html"><![CDATA[My Life As A Spyware Developer | Tues Nov 10 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/11/10/my-life-as-a-spyware-developer-%7C-tues-nov-10-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-10T00:00:38-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/11/10/my-life-as-a-spyware-developer-|-tues-nov-10-at-6pm-in-cse-e309</id>
+    <link href="http://ufsit.github.io/blog/2015/11/09/my-life-as-a-spyware-developer-%7C-tues-nov-10-at-6pm-in-cse-e309/"/>
+    <updated>2015-11-09T21:00:38-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/11/09/my-life-as-a-spyware-developer-|-tues-nov-10-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, we&rsquo;ll be watching Garry Pejski&rsquo;s DEFCON 18 talk &ldquo;My Life As a Spyware Developer&rdquo;. Hope to see you there!</p>
@@ -254,9 +254,9 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   
   <entry>
     <title type="html"><![CDATA[John Sawyer - “The Life of a Penetration Tester” | Tues Nov 3 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/11/03/john-sawyer-the-life-of-a-penetration-tester-%7C-tues-nov-3-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-03T00:06:28-05:00</updated>
-    <id>http://ufsit.github.io/blog/2015/11/03/john-sawyer-the-life-of-a-penetration-tester-|-tues-nov-3-at-6pm-in-cse-e309</id>
+    <link href="http://ufsit.github.io/blog/2015/11/02/john-sawyer-the-life-of-a-penetration-tester-%7C-tues-nov-3-at-6pm-in-cse-e309/"/>
+    <updated>2015-11-02T21:06:28-08:00</updated>
+    <id>http://ufsit.github.io/blog/2015/11/02/john-sawyer-the-life-of-a-penetration-tester-|-tues-nov-3-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
 <p>This week, John Sawyer will be talking about his work as a security consultant and penetration tester. The talk will include lots of stories from the trenches, what penetration testers really do, and some of the challenges of the job.</p>
@@ -285,7 +285,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>
     <link href="http://ufsit.github.io/blog/2015/10/27/swampsec-wednesday-%7C-7pm-%7C-the-back-yard-bar/"/>
-    <updated>2015-10-27T12:25:34-04:00</updated>
+    <updated>2015-10-27T09:25:34-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/10/27/swampsec-wednesday-|-7pm-|-the-back-yard-bar</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -305,7 +305,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[Intro to Networking &amp; Wireshark | Tues Oct 20 @ 6pm in CSE E309]]></title>
     <link href="http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-%7C-tues-oct-20-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-19T18:52:23-04:00</updated>
+    <updated>2015-10-19T15:52:23-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-|-tues-oct-20-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -328,7 +328,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[Pwned by the Owner | Tuesday Oct 13 @ 6pm in CSE E309]]></title>
     <link href="http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-%7C-tuesday-oct-13-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-12T20:09:02-04:00</updated>
+    <updated>2015-10-12T17:09:02-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-|-tuesday-oct-13-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -354,9 +354,9 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   
   <entry>
     <title type="html"><![CDATA[Mini-CTF | Tuesday Oct 6 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/10/06/mini-ctf-%7C-tuesday-oct-6-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-06T00:23:10-04:00</updated>
-    <id>http://ufsit.github.io/blog/2015/10/06/mini-ctf-|-tuesday-oct-6-at-6pm-in-cse-e309</id>
+    <link href="http://ufsit.github.io/blog/2015/10/05/mini-ctf-%7C-tuesday-oct-6-at-6pm-in-cse-e309/"/>
+    <updated>2015-10-05T21:23:10-07:00</updated>
+    <id>http://ufsit.github.io/blog/2015/10/05/mini-ctf-|-tuesday-oct-6-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, we&rsquo;ll be doing a mini-CTF that some of the admins have put together! We&rsquo;ve collected a few challenges of varying difficulty/subjects that we think you all will have some fun completing. For the first part of the meeting, we&rsquo;ll all be working in teams (or individually) and, the second part, we&rsquo;ll have walk throughs of some of the harder challenges.</p>
@@ -382,7 +382,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[Hashing | Tuesday Sept 29 @ 6pm in CSE E309]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/29/hashing-%7C-tuesday-sept-29-at-6pm-in-cse-e309/"/>
-    <updated>2015-09-29T10:50:43-04:00</updated>
+    <updated>2015-09-29T07:50:43-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/29/hashing-|-tuesday-sept-29-at-6pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -405,14 +405,14 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#108;&#x69;&#x73;&#116;&#x73;&#101;&#114;&#118;&#x40;&#x6c;&#x69;&#x73;&#116;&#x73;&#x2e;&#x75;&#x66;&#x6c;&#x2e;&#x65;&#100;&#x75;">&#x6c;&#105;&#115;&#116;&#x73;&#x65;&#x72;&#x76;&#64;&#x6c;&#105;&#x73;&#x74;&#115;&#x2e;&#117;&#102;&#x6c;&#x2e;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#x3a;&#108;&#x69;&#115;&#116;&#x73;&#x65;&#x72;&#x76;&#x40;&#x6c;&#105;&#x73;&#x74;&#x73;&#x2e;&#117;&#102;&#108;&#46;&#x65;&#x64;&#x75;">&#108;&#105;&#x73;&#x74;&#x73;&#x65;&#x72;&#118;&#64;&#x6c;&#x69;&#115;&#x74;&#x73;&#x2e;&#117;&#102;&#x6c;&#46;&#101;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[SwampSec - Wednesday | 7pm | The Back Yard Bar]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-%7C-7pm-%7C-the-back-yard-bar/"/>
-    <updated>2015-09-21T11:35:25-04:00</updated>
+    <updated>2015-09-21T08:35:25-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/21/swampsec-wednesday-|-7pm-|-the-back-yard-bar</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -432,7 +432,7 @@ To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x6
   <entry>
     <title type="html"><![CDATA[CSAW CTF | Fri, 6pm - Sun, 6pm]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/18/csaw-ctf-%7C-fri-6pm-sun-6pm/"/>
-    <updated>2015-09-18T14:33:51-04:00</updated>
+    <updated>2015-09-18T11:33:51-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/18/csaw-ctf-|-fri-6pm-sun-6pm</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -463,7 +463,7 @@ Twitter: <a href="https://twitter.com">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Meeting - September 15, 2015 | Client Side Hacks &amp; Burp Suite]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-%7C-client-side-hacks-and-burp-suite/"/>
-    <updated>2015-09-14T19:51:48-04:00</updated>
+    <updated>2015-09-14T16:51:48-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-|-client-side-hacks-and-burp-suite</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -506,7 +506,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[MMA CTF Writeups]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups/"/>
-    <updated>2015-09-08T21:48:34-04:00</updated>
+    <updated>2015-09-08T18:48:34-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups</id>
     <content type="html"><![CDATA[<p>Last weekend, the SIT competed in <a href="https://uecmma.github.io/mmactf/">MMA CTF</a> and had a few members solve challenges! If you were one of those members, we want your writeup! If you have a writeup for a challenge, please send them to <a href="mailto:%20me+ufsit@andrewjkerr.com">Andrew</a> and we will post them below. Thanks!</p>
 
@@ -527,7 +527,7 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
   <entry>
     <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/07/meeting-xss-%7C-september-8-2015/"/>
-    <updated>2015-09-07T18:26:45-04:00</updated>
+    <updated>2015-09-07T15:26:45-07:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/07/meeting-xss-|-september-8-2015</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
