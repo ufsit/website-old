@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-09-06T17:28:48-07:00</updated>
+  <updated>2016-09-08T10:29:54-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Semester Meeting Fall 2016 | Thurs Sep 8th @  6:30pm in CSE 309]]></title>
+    <link href="http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016/"/>
+    <updated>2016-09-08T10:09:14-07:00</updated>
+    <id>http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016</id>
+    <content type="html"><![CDATA[<p>Hey SITers!</p>
+
+<p>Welcome back to another year! Hope everyone had a productive and relaxing summer. If you&rsquo;re ready for another semester of Information Security awesomeness, come out to our first meeting tonight! We&rsquo;ll be introducing our new officers, talking you through our vision for the club, and showing off some AWESOME hacking demonstrations.</p>
+
+<!-- MORE -->
+
+
+<p>If that&rsquo;s not enough, we&rsquo;ll also be providing FREE PIZZA! Hope to see you there!</p>
+
+<p>~ Nick</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a><br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Security Internships and Jobs Panel | Tues Apr 19 @ 6pm in CSE E312]]></title>
@@ -405,7 +432,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#108;&#x74;&#x6f;&#x3a;&#108;&#x69;&#115;&#116;&#x73;&#x65;&#x72;&#x76;&#x40;&#x6c;&#105;&#x73;&#x74;&#x73;&#x2e;&#117;&#102;&#108;&#46;&#x65;&#x64;&#x75;">&#108;&#105;&#x73;&#x74;&#x73;&#x65;&#x72;&#118;&#64;&#x6c;&#x69;&#115;&#x74;&#x73;&#x2e;&#117;&#102;&#x6c;&#46;&#101;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#108;&#105;&#115;&#x74;&#x73;&#x65;&#114;&#118;&#64;&#108;&#105;&#115;&#116;&#115;&#x2e;&#117;&#102;&#x6c;&#x2e;&#101;&#100;&#x75;">&#x6c;&#x69;&#x73;&#x74;&#x73;&#x65;&#114;&#x76;&#64;&#x6c;&#x69;&#115;&#116;&#x73;&#x2e;&#x75;&#x66;&#108;&#x2e;&#x65;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -521,42 +548,6 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
 <li><a href="https://gist.github.com/andrewjkerr/24b77be8ef07d3a88586">Smart Cipher System, flag #4</a> by Robert Munyer</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - September 8, 2015 | XSS]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/07/meeting-xss-%7C-september-8-2015/"/>
-    <updated>2015-09-07T15:26:45-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/07/meeting-xss-|-september-8-2015</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, <a href="http://andrewjkerr.com">Andrew</a> be giving a crash course in cross-site scripting (XSS) as well as providing some fun challenges to work on afterwards!</p>
-
-<ul>
-<li>Slides: <a href="https://github.com/andrewjkerr/xss-presentation">https://github.com/andrewjkerr/xss-presentation</a></li>
-<li>Challenges: <a href="https://github.com/andrewjkerr/xss-challenges">https://github.com/andrewjkerr/xss-challenges</a></li>
-</ul>
-
-
-<p>(Note about the challenge server: it will only be up until next Wednesday! After that, you will have to host them locally.)</p>
-
-<!-- more -->
-
-
-<p>Also, while you won&rsquo;t need Kali this week, officers will be helping any of you that had trouble installing it (and, just in case you missed it, installation instructions can be found here: <a href="http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/">http://ufsit.org/blog/2015/09/04/kali-linux-vm-installation-instructions/</a>).</p>
-
-<p>Hope to see you there!<br/>
-~ Andrew</p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
