@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-09-08T10:29:54-07:00</updated>
+  <updated>2016-09-12T20:16:42-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Protiviti Resume Critiques | Thurs Sept 15 at 6:30pm in CSE 309]]></title>
+    <link href="http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-%7C-thurs-sept-15-at-6-30pm-in-cse-309/"/>
+    <updated>2016-09-12T19:48:06-07:00</updated>
+    <id>http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-|-thurs-sept-15-at-6-30pm-in-cse-309</id>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>Get ready for this week&rsquo;s meeting, as Fortune 500 Company Protiviti will be coming in to provide resume critiques! This is a great way to prepare for the UF Career Development Workshop occurring September 26.</p>
+
+<p>Please bring at least two HARD COPIES of your resume!</p>
+
+<p>This Friday, September 16, we will also be meeting in CSE 309 at 6pm to participate in the CSAW CTF event.</p>
+
+<!-- MORE -->
+
+
+<p>This is the largest and most important CTF event of the semester. The top qualifying teams will receive a FREE flight to New York to participate in a live CTF event. Please come out and participate! If you&rsquo;re completely new to CTFs, this is a great event to start with. The challenges have a wide range of difficulty, from beginner to expert. Feel free to ask any questions on the Facebook group or Slack, linked below.</p>
+
+<p>Hope to see everyone there for a fun night of hacking!</p>
+
+<p>~Nick</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$%20  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Semester Meeting Fall 2016 | Thurs Sep 8th @  6:30pm in CSE 309]]></title>
@@ -432,7 +464,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#108;&#105;&#115;&#x74;&#x73;&#x65;&#114;&#118;&#64;&#108;&#105;&#115;&#116;&#115;&#x2e;&#117;&#102;&#x6c;&#x2e;&#101;&#100;&#x75;">&#x6c;&#x69;&#x73;&#x74;&#x73;&#x65;&#114;&#x76;&#64;&#x6c;&#x69;&#115;&#116;&#x73;&#x2e;&#x75;&#x66;&#108;&#x2e;&#x65;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x6c;&#105;&#x73;&#116;&#x73;&#101;&#x72;&#118;&#64;&#x6c;&#105;&#x73;&#x74;&#x73;&#46;&#117;&#102;&#x6c;&#x2e;&#x65;&#x64;&#x75;">&#x6c;&#105;&#115;&#x74;&#115;&#x65;&#114;&#x76;&#x40;&#x6c;&#x69;&#x73;&#x74;&#115;&#x2e;&#117;&#102;&#108;&#x2e;&#x65;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -527,27 +559,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MMA CTF Writeups]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups/"/>
-    <updated>2015-09-08T18:48:34-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups</id>
-    <content type="html"><![CDATA[<p>Last weekend, the SIT competed in <a href="https://uecmma.github.io/mmactf/">MMA CTF</a> and had a few members solve challenges! If you were one of those members, we want your writeup! If you have a writeup for a challenge, please send them to <a href="mailto:%20me+ufsit@andrewjkerr.com">Andrew</a> and we will post them below. Thanks!</p>
-
-<!-- more -->
-
-
-<h3>Writeups</h3>
-
-<ul>
-<li><a href="http://sheepshellcode.com/blog/2015/09/08/mma-ctf-rock-paper-shellcode/">Rock Paper SHELLCODE</a> by Vincent Moscatello</li>
-<li><a href="http://andrewjkerr.com/blog/mma-ctf-writeup/">Login as admin!</a> by Andrew Kerr</li>
-<li><a href="https://gist.github.com/andrewjkerr/24b77be8ef07d3a88586">Smart Cipher System, flag #4</a> by Robert Munyer</li>
-</ul>
-
 ]]></content>
   </entry>
   
