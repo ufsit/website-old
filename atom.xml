@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-09-12T20:24:29-07:00</updated>
+  <updated>2016-09-19T19:48:47-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to CTFs | Thurs Sept 22 at 6:30pm in CSE 309]]></title>
+    <link href="http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-%7C-thurs-sept-22-at-6-30pm-in-cse-309/"/>
+    <updated>2016-09-19T18:22:14-07:00</updated>
+    <id>http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-|-thurs-sept-22-at-6-30pm-in-cse-309</id>
+    <content type="html"><![CDATA[<p>What&rsquo;s up SIT!</p>
+
+<p>Hope everyone had a great time with the CSAW CTF event this past weekend. Our team placed top 27 in the nation and top 10% in the world! Thanks to everyone who showed up, and congratulations!</p>
+
+<p>This week&rsquo;s meeting will feature explanations and write-ups of several CTF challenges that were completed at CSAW. If you were struggling with a particular challenge, this is the perfect way to see the solution worked out in real time.</p>
+
+<p>In addition, we will be having a hands-on lab to learn vital Linux and recon skills. Don&rsquo;t miss it!</p>
+
+<!-- MORE -->
+
+
+<p>Also, we will be hosting a Lake Wauburg Ropes Course social on October 8th. Check the Facebook for more information!</p>
+
+<p>~Nick</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Protiviti Resume Critiques | Thurs Sept 15 at 6:30pm in CSE 309]]></title>
@@ -464,7 +494,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#108;&#x69;&#x73;&#x74;&#x73;&#x65;&#x72;&#x76;&#64;&#108;&#105;&#115;&#116;&#x73;&#46;&#117;&#x66;&#108;&#x2e;&#x65;&#x64;&#x75;">&#x6c;&#x69;&#x73;&#x74;&#115;&#101;&#x72;&#118;&#x40;&#x6c;&#x69;&#115;&#116;&#115;&#x2e;&#x75;&#x66;&#x6c;&#46;&#x65;&#100;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x6c;&#105;&#x73;&#x74;&#x73;&#101;&#114;&#118;&#x40;&#x6c;&#x69;&#115;&#x74;&#x73;&#46;&#117;&#x66;&#x6c;&#x2e;&#x65;&#100;&#117;">&#x6c;&#x69;&#115;&#116;&#x73;&#101;&#114;&#x76;&#x40;&#x6c;&#x69;&#115;&#116;&#115;&#46;&#117;&#x66;&#x6c;&#46;&#101;&#x64;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
@@ -516,49 +546,6 @@ Slack: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
 Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
 Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a> <br/>
 Twitter: <a href="https://twitter.com">@ufsit</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting - September 15, 2015 | Client Side Hacks &amp; Burp Suite]]></title>
-    <link href="http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-%7C-client-side-hacks-and-burp-suite/"/>
-    <updated>2015-09-14T16:51:48-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/09/14/meeting-september-15-2015-|-client-side-hacks-and-burp-suite</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be talking about some client side tricks that can confuse (and exploit!) a backend server and giving a demo of Burp Suite <a href="https://portswigger.net/burp/">https://portswigger.net/burp/</a>.</p>
-
-<!-- more -->
-
-
-<p>Hope to see you there!</p>
-
-<h2>Challenges:</h2>
-
-<h3>canihazadmin</h3>
-
-<p>Become an admin!</p>
-
-<p><a href="https://canihazadmin.herokuapp.com">https://canihazadmin.herokuapp.com</a></p>
-
-<h3>ROBOTS ONLY</h3>
-
-<p>Get the key!</p>
-
-<p><a href="http://lwapd.pythonanywhere.com/robot_club/?k=PfV54DzCVhXz">http://lwapd.pythonanywhere.com/robot_club/?k=PfV54DzCVhXz</a></p>
-
-<h3>Some Arbitrary Website</h3>
-
-<p><a href="http://some.arbitrary.website/">http://some.arbitrary.website/</a></p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
