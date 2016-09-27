@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-09-27T13:31:30-07:00</updated>
+  <updated>2016-09-27T13:36:52-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -22,7 +22,7 @@
 
 <p>Great job on our performance for the Hack1t CTF!! The CTF is still online until the end of this week, but we will be shifting focus to a new CTF this Friday. At one time during the CTF, we were 2nd place in the world! As of now, we are still hanging out in top 100 of the rankings. Awesome job everyone!</p>
 
-<p>This week&rsquo;s meeting will feature and Introduction to SQL Injection, by our president, Terry Thibault. SQL Injection is an extremely important technique to know, as it is one of the most prevalent vulnerabilities year after year. People simply don&rsquo;t care about sanitizing input! Find out how to exploit their laziness and pwn a system this Thursday, as Terry walks us through the process, from SQL to Shell.</p>
+<p>This week&rsquo;s meeting will feature an Introduction to SQL Injection by our very own president, Terry Thibault. SQL Injection is an extremely important technique to know, as it is one of the most prevalent vulnerabilities year after year. People simply don&rsquo;t care about sanitizing input! Find out how to exploit their laziness and pwn a system this Thursday as Terry walks us through the process, from SQL to Shell.</p>
 
 <p>Also, don&rsquo;t forget to sign up for our Ropes Course Social at Lake Wauburg on October 8th! Check out our Facebook event for details and carpooling.</p>
 
@@ -520,7 +520,7 @@ Twitter: <a href="https://twitter.com/andrewuf">@ufsit</a></p>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
 
 <p>[Unsubscribe]<br/>
-To remove yourself from the listserv, send an email to <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x6c;&#105;&#115;&#x74;&#x73;&#x65;&#x72;&#x76;&#64;&#x6c;&#x69;&#x73;&#x74;&#x73;&#46;&#117;&#102;&#108;&#46;&#101;&#100;&#x75;">&#x6c;&#105;&#115;&#x74;&#x73;&#x65;&#x72;&#118;&#x40;&#108;&#105;&#x73;&#x74;&#x73;&#x2e;&#117;&#102;&#x6c;&#46;&#x65;&#100;&#x75;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
+To remove yourself from the listserv, send an email to <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#x3a;&#x6c;&#105;&#115;&#x74;&#x73;&#101;&#x72;&#x76;&#64;&#108;&#105;&#115;&#x74;&#115;&#46;&#x75;&#102;&#108;&#46;&#x65;&#100;&#x75;">&#108;&#105;&#x73;&#x74;&#x73;&#x65;&#x72;&#118;&#64;&#x6c;&#105;&#115;&#116;&#115;&#46;&#x75;&#x66;&#108;&#x2e;&#101;&#x64;&#117;</a> with &ldquo;unsubscribe UFSIT-L&rdquo;.</p>
 ]]></content>
   </entry>
   
