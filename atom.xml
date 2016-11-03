@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-10-10T15:34:45-07:00</updated>
+  <updated>2016-11-02T19:10:15-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reverse Engineering | Thurs Nov 3 at 6:30pm in CSE 309]]></title>
+    <link href="http://ufsit.github.io/blog/2016/11/02/reverse-engineering-%7C-thurs-nov-3-at-6-30pm-in-cse-309/"/>
+    <updated>2016-11-02T18:56:54-07:00</updated>
+    <id>http://ufsit.github.io/blog/2016/11/02/reverse-engineering-|-thurs-nov-3-at-6-30pm-in-cse-309</id>
+    <content type="html"><![CDATA[<p>Happy belated Halloween SIT!</p>
+
+<p>Hope everyone&rsquo;s weekend was full of costumes and candy. While pumpkins and skeletons were fun, its time to start looking forward to Thanksgiving!!</p>
+
+<p>This week, we&rsquo;ll be taking a look at Reverse Engineering. This is the process of disassembling an executable file to understand its functions, processes, variables, etc. With this information known, it is possible to find a vulnerability which can be exploited with a malicious injection. In this way, an attacker can hijack execution control of a program to execute desired functions (getflag()) or even execute arbitrary code. We will be taking a look at the most common tool for this, which is GDB, the GNU debugger. This is a hugely important topic for CTFs and cyber security in general, so I highly recommend to come out!</p>
+
+<p>Also, this Friday, at 7pm, in CSE 312, we will be having a CTF event! Join us as we participate in the HackTheVote online CTF. We will be providing food!</p>
+
+<p><strong><strong> FREE FOOD AT THE CTF </strong></strong>*</p>
+
+<p>Come on out for a fun night of hacking!</p>
+
+<!-- MORE -->
+
+
+<p>In addition, big thanks to everyone who came to the B-Sides Jacksonville conference and the Florida Center for CyberSecurity 3rd Annual Conferences. Both were extremely fun and enlightening, I hope everyone came away a little more experienced and aware of modern security trends! You can find pictures of our trips on our facebook, linked below.</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Buffer Overflows v2 | Thurs Oct 13 at 6:30pm in CSE 309]]></title>
@@ -518,33 +550,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Mini-CTF | Tuesday Oct 6 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/10/05/mini-ctf-%7C-tuesday-oct-6-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-05T21:23:10-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/10/05/mini-ctf-|-tuesday-oct-6-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be doing a mini-CTF that some of the admins have put together! We&rsquo;ve collected a few challenges of varying difficulty/subjects that we think you all will have some fun completing. For the first part of the meeting, we&rsquo;ll all be working in teams (or individually) and, the second part, we&rsquo;ll have walk throughs of some of the harder challenges.</p>
-
-<!-- MORE -->
-
-
-<p>Make sure to bring a laptop!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-IRC: #ufsit on Freenode<br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
