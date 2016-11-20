@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-11-02T19:10:15-07:00</updated>
+  <updated>2016-11-20T15:24:30-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Thanksgiving!]]></title>
+    <link href="http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving/"/>
+    <updated>2016-11-20T15:18:17-08:00</updated>
+    <id>http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving</id>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>Thanks to everyone who came out to the Metasploitable meeting this week. It was a cool introduction to everyone&rsquo;s favorite hacking assistance tool, Metasploit. I highly encourage everyone to explore and exploit the Metasploitable VM on their own time, it&rsquo;s great practice! You&rsquo;ll be working on a different set of skills than required in CTF challenges; its important to be a well-rounded hacker.</p>
+
+<p>In other news, thanks to everyone who participated in the RC3 CTF this weekend! As of right now, we are placed 101 out of 646 participating teams. The CTF ends at 12pm Sunday, so maybe we can solve one more challenge for top 100! Congratulations to everyone who solved a challenge and learned a thing or two =)</p>
+
+<p>There will not be a meeting this week due to Thanksgiving. Hope everyone has safe travels home and enjoys a nice break from school, full of food and family time!</p>
+
+<p>See ya in a few weeks!</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reverse Engineering | Thurs Nov 3 at 6:30pm in CSE 309]]></title>
@@ -22,7 +47,7 @@
 
 <p>Hope everyone&rsquo;s weekend was full of costumes and candy. While pumpkins and skeletons were fun, its time to start looking forward to Thanksgiving!!</p>
 
-<p>This week, we&rsquo;ll be taking a look at Reverse Engineering. This is the process of disassembling an executable file to understand its functions, processes, variables, etc. With this information known, it is possible to find a vulnerability which can be exploited with a malicious injection. In this way, an attacker can hijack execution control of a program to execute desired functions (getflag()) or even execute arbitrary code. We will be taking a look at the most common tool for this, which is GDB, the GNU debugger. This is a hugely important topic for CTFs and cyber security in general, so I highly recommend to come out!</p>
+<p>This week, we&rsquo;ll be taking a look at Reverse Engineering. This is the process of disassembling an executable file to understand its functions, processes, variables, etc. With this information known, it is possible to find a vulnerability which can be exploited with a malicious injection. In this way, an attacker can hijack execution control of a program to execute desired functions (getflag()) or even execute arbitrary code. We will also be taking a look at the most common tool for this, which is GDB, the GNU debugger. This is a hugely important topic for CTFs and cyber security in general, so I highly recommend to come out!</p>
 
 <p>Also, this Friday, at 7pm, in CSE 312, we will be having a CTF event! Join us as we participate in the HackTheVote online CTF. We will be providing food!</p>
 
@@ -523,33 +548,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pwned by the Owner | Tuesday Oct 13 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-%7C-tuesday-oct-13-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-12T17:09:02-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/10/12/pwned-by-the-owner-|-tuesday-oct-13-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be watching Zoz&rsquo;s DEFCON 18 talk &ldquo;Pwned by the Owner (What happens when you steal a hacker&rsquo;s computer)&rdquo; and then discussing some of the challenges from last week.</p>
-
-<!-- MORE -->
-
-
-<p>Hope to see you there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
 ]]></content>
   </entry>
   
