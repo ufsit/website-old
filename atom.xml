@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2016-11-20T15:28:03-08:00</updated>
+  <updated>2017-01-12T08:12:49-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spring GBM | Jan 12th at 6:30pm in CSE 309]]></title>
+    <link href="http://ufsit.github.io/blog/2017/01/10/spring-gbm-%7C-jan-12th-at-6-30pm-in-cse-309/"/>
+    <updated>2017-01-10T18:40:03-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/01/10/spring-gbm-|-jan-12th-at-6-30pm-in-cse-309</id>
+    <content type="html"><![CDATA[<p>Hey SIT! Do you like free pizza?</p>
+
+<p>Join us for our Spring GBM! We will be looking back and reviewing the Fall semester as well as sharing our plans for the future. This meeting will be a great time to:</p>
+
+<ul>
+<li>Get acquainted with our officers</li>
+<li>Review what we learned in 2016</li>
+<li>Reminisce about previous club travel experiences</li>
+<li>Learn about our goals and visions for the club</li>
+</ul>
+
+
+<p>In addition, we will begin taking applications for Chair positions! We aim to have a Corporate Liaison Chair and a CTF chair. Come to the meeting for more details!</p>
+
+<p><strong><em> FREE PIZZA INCLUDED </em></strong></p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Thanksgiving!]]></title>
@@ -528,29 +562,6 @@ Tuesday 6:00pm – 7:00pm | CSE E309</p>
 <p>Hope to see you there!</p>
 
 <p><strong>Please note that we will NOT be meeting in CSE309 on Tuesday!! We have decided to cancel our Tuesday meeting in the interest of going to SwampSec instead.</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Intro to Networking &amp; Wireshark | Tues Oct 20 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-%7C-tues-oct-20-at-6pm-in-cse-e309/"/>
-    <updated>2015-10-19T15:52:23-07:00</updated>
-    <id>http://ufsit.github.io/blog/2015/10/19/intro-to-networking-and-wireshark-|-tues-oct-20-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be diving into an introduction to networking and Wireshark. Please come with Wireshark, cURL, and Chrome installed in order to follow along with the presentation!</p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="http://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
