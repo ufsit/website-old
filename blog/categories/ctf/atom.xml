@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ctf | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/ctf/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-01-12T08:12:49-08:00</updated>
+  <updated>2017-01-20T13:41:34-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[CSAW CTF | Fri, 6pm - Sun, 6pm]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/18/csaw-ctf-%7C-fri-6pm-sun-6pm/"/>
-    <updated>2015-09-18T11:33:51-07:00</updated>
+    <updated>2015-09-18T14:33:51-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/18/csaw-ctf-|-fri-6pm-sun-6pm</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -47,7 +47,7 @@ Twitter: <a href="https://twitter.com">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[MMA CTF Writeups]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups/"/>
-    <updated>2015-09-08T18:48:34-07:00</updated>
+    <updated>2015-09-08T21:48:34-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/08/mma-ctf-writeups</id>
     <content type="html"><![CDATA[<p>Last weekend, the SIT competed in <a href="https://uecmma.github.io/mmactf/">MMA CTF</a> and had a few members solve challenges! If you were one of those members, we want your writeup! If you have a writeup for a challenge, please send them to <a href="mailto:%20me+ufsit@andrewjkerr.com">Andrew</a> and we will post them below. Thanks!</p>
 
@@ -68,7 +68,7 @@ Twitter: <a href="https://twitter.com">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[MMA CTF - Fri Sept 4 @ 8pm in CSE E309]]></title>
     <link href="http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309/"/>
-    <updated>2015-09-04T10:48:26-07:00</updated>
+    <updated>2015-09-04T13:48:26-04:00</updated>
     <id>http://ufsit.github.io/blog/2015/09/04/mma-ctf-starts-today-at-8pm-in-cse-e309</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -108,7 +108,7 @@ CSE E309</p>
   <entry>
     <title type="html"><![CDATA[CTF - Ghost in the Shellcode | Friday 1500 - Sunday 1330]]></title>
     <link href="http://ufsit.github.io/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330/"/>
-    <updated>2014-01-16T14:06:17-08:00</updated>
+    <updated>2014-01-16T17:06:17-05:00</updated>
     <id>http://ufsit.github.io/blog/2014/01/16/ctf-ghost-in-the-shellcode-friday-1500-sunday-1330</id>
     <content type="html"><![CDATA[<p>SITers,</p>
 

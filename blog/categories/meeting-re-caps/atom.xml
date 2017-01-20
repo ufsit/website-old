@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meeting re-caps | UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/blog/categories/meeting-re-caps/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-01-12T08:12:49-08:00</updated>
+  <updated>2017-01-20T13:41:34-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Meeting - October 8, 2014 | Hashes]]></title>
     <link href="http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes/"/>
-    <updated>2014-10-07T20:13:36-07:00</updated>
+    <updated>2014-10-07T23:13:36-04:00</updated>
     <id>http://ufsit.github.io/blog/2014/10/07/meeting-october-8-2014-hashes</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
@@ -45,7 +45,7 @@
   <entry>
     <title type="html"><![CDATA[CSAW CTF | Friday 6:30pm - Sunday 6:00pm]]></title>
     <link href="http://ufsit.github.io/blog/2014/09/18/959/"/>
-    <updated>2014-09-18T19:37:45-07:00</updated>
+    <updated>2014-09-18T22:37:45-04:00</updated>
     <id>http://ufsit.github.io/blog/2014/09/18/959</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting - September 17, 2014 | Intro to Networking with Netcat and Wireshark]]></title>
-    <link href="http://ufsit.github.io/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark/"/>
-    <updated>2014-09-15T21:57:54-07:00</updated>
-    <id>http://ufsit.github.io/blog/2014/09/15/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark</id>
+    <link href="http://ufsit.github.io/blog/2014/09/16/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark/"/>
+    <updated>2014-09-16T00:57:54-04:00</updated>
+    <id>http://ufsit.github.io/blog/2014/09/16/meeting-september-17-2014-intro-to-networking-with-netcat-and-wireshark</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>This week, we&rsquo;ll be talking about some of the underlying technologies that allow the Internet to work and explaining how to use Netcat and Wireshark to interact and analyze those technologies.</p>
@@ -91,20 +91,20 @@
   <entry>
     <title type="html"><![CDATA[Post-Meeting Recap | Virtual Machines and Resource List]]></title>
     <link href="http://ufsit.github.io/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list/"/>
-    <updated>2014-09-03T17:43:07-07:00</updated>
+    <updated>2014-09-03T20:43:07-04:00</updated>
     <id>http://ufsit.github.io/blog/2014/09/03/post-meeting-recap-virtual-machines-and-resource-list</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
 <p>In case you didn&rsquo;t get a chance to grab the virtual machines that we&rsquo;ll be using this semester, you can download them at <a href="http://pwn.sploitlab.com:32611/">http://pwn.sploitlab.com:32611/</a> or you can find an officer at any of the meetings and we can transfer the files to your computer.</p>
 
-<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#58;&#x70;&#114;&#101;&#115;&#x69;&#x64;&#x65;&#110;&#116;&#x40;&#x75;&#102;&#x73;&#x69;&#x74;&#46;&#x6f;&#x72;&#103;">&#x70;&#114;&#101;&#x73;&#105;&#100;&#101;&#110;&#x74;&#64;&#x75;&#x66;&#x73;&#x69;&#x74;&#46;&#111;&#114;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
+<p>Also, if you&rsquo;re interested in joining UFSIT, make sure to join the mailing list by sending an email to <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#x70;&#114;&#101;&#x73;&#105;&#x64;&#101;&#110;&#116;&#64;&#117;&#102;&#x73;&#x69;&#116;&#x2e;&#111;&#114;&#103;">&#x70;&#x72;&#101;&#115;&#x69;&#100;&#x65;&#110;&#116;&#x40;&#x75;&#x66;&#x73;&#x69;&#116;&#46;&#x6f;&#x72;&#x67;</a> with the subject &ldquo;MailingList FirstName LastName&rdquo; and also join UFSIT on GatorConnect <a href="https://ufl.collegiatelink.net/organization/SIT">https://ufl.collegiatelink.net/organization/SIT</a>.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[No Meeting This Week (07/09)]]></title>
     <link href="http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709/"/>
-    <updated>2014-07-07T17:52:49-07:00</updated>
+    <updated>2014-07-07T20:52:49-04:00</updated>
     <id>http://ufsit.github.io/blog/2014/07/07/no-meeting-this-week-0709</id>
     <content type="html"><![CDATA[<p>Hi SITers!</p>
 
