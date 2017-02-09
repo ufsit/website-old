@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-02-03T19:46:57-08:00</updated>
+  <updated>2017-02-08T16:54:29-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AlexCTF Review and NSA Guest Appearance]]></title>
+    <link href="http://ufsit.github.io/blog/2017/02/08/alexctf-review-and-nsa-guest-appearance/"/>
+    <updated>2017-02-08T16:47:17-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/02/08/alexctf-review-and-nsa-guest-appearance</id>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>Following our great success at the AlexCTF Capture-the-flag event last friday, several students will be presenting their CTF challenge writeups! This involves explaining the challenge and working through the solution. If you were stuck on any challenge (like 99% of the rest of us), come on out to learn how it&rsquo;s done!</p>
+
+<p>Afterwards, an NSA representative will be here to give us a special look into the mysterious entity that is the National Security Agency. This is an excellent opportunity to learn how information security is applied in the real-world, especially by the government!</p>
+
+<p><strong><strong> FREE PIZZA INCLUDED </strong></strong></p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AlexCTF this weekend! Feb 3 - Feb 6]]></title>
@@ -533,36 +559,6 @@ Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.
 Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
 Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
 Twitter: <a href="https://twitter.com/@ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[John Sawyer - “The Life of a Penetration Tester” | Tues Nov 3 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/11/02/john-sawyer-the-life-of-a-penetration-tester-%7C-tues-nov-3-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-02T21:06:28-08:00</updated>
-    <id>http://ufsit.github.io/blog/2015/11/02/john-sawyer-the-life-of-a-penetration-tester-|-tues-nov-3-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>This week, John Sawyer will be talking about his work as a security consultant and penetration tester. The talk will include lots of stories from the trenches, what penetration testers really do, and some of the challenges of the job.</p>
-
-<!-- MORE -->
-
-
-<p>Hope to see you there!</p>
-
-<p>~ Andrew</p>
-
-<p>[About John]<br/>
-John is a founder of UFSIT and SwampSec. His work as a Senior Security Analyst with InGuardians has taken him all across the US and abroad to work with all different types of clients in industries that include oil and gas, financial, medical, educational, government, utilities, insurance, and pretty much anything else you can think of.</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 Tuesday 6:00pm – 7:00pm | CSE E309</p>
