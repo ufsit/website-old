@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-02-14T09:35:13-08:00</updated>
+  <updated>2017-02-15T14:58:49-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tales of a Hacker w/ Founder of SIT]]></title>
+    <link href="http://ufsit.github.io/blog/2017/02/15/tales-of-a-hacker-w-slash-founder-of-sit/"/>
+    <updated>2017-02-15T14:53:30-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/02/15/tales-of-a-hacker-w-slash-founder-of-sit</id>
+    <content type="html"><![CDATA[<p>Think Mr. Robot has some unbelievable hacking scenarios? Think again.</p>
+
+<p>Our great and legendary club founder, John Sawyer, will be coming to visit us this Thursday to regale us with tales of the wild, wild computer world! John Sawyer holds two DEFCON CTF 1st place standings; once in 2014, and a repeat win in 2015. For those of you who don&rsquo;t know, DEFCON is the most competitive and widely known CTF event in the world - winning even once is a huge deal. Needless to say, he has plenty of interesting hacking stories to share with us!</p>
+
+<p>Come on out to see how far the rabbit hole really goes.</p>
+
+<!-- MORE --> 
+
+
+<p>Learn more about DEFCON: <a href="https://defcon.org/">https://defcon.org/</a></p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AlexCTF Review and NSA Guest Appearance]]></title>
@@ -539,29 +565,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Life As A Spyware Developer | Tues Nov 10 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/11/09/my-life-as-a-spyware-developer-%7C-tues-nov-10-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-09T21:00:38-08:00</updated>
-    <id>http://ufsit.github.io/blog/2015/11/09/my-life-as-a-spyware-developer-|-tues-nov-10-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be watching Garry Pejski&rsquo;s DEFCON 18 talk &ldquo;My Life As a Spyware Developer&rdquo;. Hope to see you there!</p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/@ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-Tuesday 6:00pm – 7:00pm | CSE E309</p>
 ]]></content>
   </entry>
   
