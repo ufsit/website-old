@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-02-15T15:37:32-08:00</updated>
+  <updated>2017-02-22T17:12:54-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Intro to Reverse Engineering]]></title>
+    <link href="http://ufsit.github.io/blog/2017/02/22/intro-to-reverse-engineering/"/>
+    <updated>2017-02-22T17:08:55-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/02/22/intro-to-reverse-engineering</id>
+    <content type="html"><![CDATA[<p>Ever wondered about the mysterious and impenetrable &ldquo;Reverse Engineering&rdquo; category at CTFs? Ever wanted to reverse engineer a program to see how it runs at the assembly level? Do you enjoy poring over thousands of lines of assembly code?</p>
+
+<p>If you said yes to any of these, or are just interested in the art of Reverse Engineering in general, we are hosting a presentation just for you this Thursday! Super genius Chris James will be teaching the basics of RE tool &ldquo;Radare2&rdquo;, a freely available tool for Reverse Engineering. Come on out to enhance your skills as a hacker!</p>
+
+<!-- MORE -->
+
+
+<p>Reverse engineering is a vital skill for:<br/>
+- Identifying malware without executing it<br/>
+- Discovering weaknesses in a program for possible exploits<br/>
+- Debugging programs to find errors<br/>
+- Making programs more efficient</p>
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tales of a Hacker w/ Founder of SIT]]></title>
@@ -538,33 +566,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Tuesday 6:00pm – 7:00pm | CSE E312</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lightning Talks | Tues Nov 17 @ 6pm in CSE E309]]></title>
-    <link href="http://ufsit.github.io/blog/2015/11/16/lightning-talks-%7C-tues-nov-17-at-6pm-in-cse-e309/"/>
-    <updated>2015-11-16T19:10:39-08:00</updated>
-    <id>http://ufsit.github.io/blog/2015/11/16/lightning-talks-|-tues-nov-17-at-6pm-in-cse-e309</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>Just a reminder that we&rsquo;ll be holding member lightning talks tomorrow! Come out and hear what your fellow members are working on in the wide world of info-sec!</p>
-
-<!-- MORE -->
-
-
-<p>Hope to see you there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E309</strong></p>
 ]]></content>
   </entry>
   
