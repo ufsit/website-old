@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-02-22T17:12:54-08:00</updated>
+  <updated>2017-02-27T09:20:00-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cryptography and Cookies | March 2nd]]></title>
+    <link href="http://ufsit.github.io/blog/2017/02/27/cryptography-and-cookies-%7C-march-2nd/"/>
+    <updated>2017-02-27T09:17:43-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/02/27/cryptography-and-cookies-|-march-2nd</id>
+    <content type="html"><![CDATA[<p><strong><strong><strong><em> FREE COOKIES ALERT </em></strong></strong></strong></p>
+
+<p>This week, SIT will be providing a complete overview of Cryptography, including Classic Cryptography, Modern Cryptography, hashing, and more.</p>
+
+<p>Come on out to crack ciphers and eat cookies!</p>
+
+<p>Flskhuv duh ixq! Vs lbh penpx guvf, lbh ner n fhcre travhf.</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Intro to Reverse Engineering]]></title>
@@ -537,35 +563,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Intro to SIT and InfoSec | Tues Jan 19 @ 6pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/01/18/intro-to-sit-and-infosec-%7C-tues-jan-19-at-6pm-in-cse-e312/"/>
-    <updated>2016-01-18T14:02:06-08:00</updated>
-    <id>http://ufsit.github.io/blog/2016/01/18/intro-to-sit-and-infosec-|-tues-jan-19-at-6pm-in-cse-e312</id>
-    <content type="html"><![CDATA[<p>Hi SITers!</p>
-
-<p>Tomorrow (Tuesday January 19, 2016) is going to be our first meeting on the spring semester! Our president Greg will be giving you all the rundown on what SIT is and also an introduction to InfoSec as a whole. If you&rsquo;ve been looking to get into InfoSec and also meet fellow students who are also into InfoSec, come on out (and bring a friend)!</p>
-
-<!-- MORE -->
-
-
-<p>Hope to see you all there!</p>
-
-<p>~ Andrew</p>
-
-<p>Also, if you&rsquo;re not already, sign up for the UF CISE Slack at <a href="https://slack.ufcise.com">slack.ufcise.com</a> and join the #ufsit channel!</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://slack.ufcise.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm – 7:00pm | CSE E312</strong></p>
 ]]></content>
   </entry>
   
