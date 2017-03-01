@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-02-27T09:20:00-08:00</updated>
+  <updated>2017-02-28T17:39:49-08:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Congratulations to our CCDC team!]]></title>
+    <link href="http://ufsit.github.io/blog/2017/02/28/congratulations-to-our-ccdc-team/"/>
+    <updated>2017-02-28T17:36:54-08:00</updated>
+    <id>http://ufsit.github.io/blog/2017/02/28/congratulations-to-our-ccdc-team</id>
+    <content type="html"><![CDATA[<p>The UF SIT Collegiate Cyber Defense Team qualified for the CCDC Regional Competition in a stunning performance this recent Saturday!</p>
+
+<p>From 8am to 12pm, fearless Captain Terry Thibault and veteran co-captain Grant Hernandez led the team through a grueling 4 hours of realistic Cyber warfare, protecting virtual assets from penetration by expert hackers. (All while looking sharp in matching uniforms)</p>
+
+<!-- MORE --> 
+
+
+<p>Give a round of applause to our CCDC team!</p>
+
+<ul>
+<li>Terry Thibault</li>
+<li>Grant Hernandez</li>
+<li>James Ziegenfelder</li>
+<li>Vijay Prakash</li>
+<li>Ben Simon</li>
+<li>Elan Rasabi</li>
+<li>Anton Valdez</li>
+<li>Shawn Newsome</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cryptography and Cookies | March 2nd]]></title>
@@ -528,35 +556,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Be Social!]<br/>
 Chat: #ufsit on Freenode // #ufsit on <a href="https://slack.ufcise.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Resume Critiques | Tues Jan 26 @ 6pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/01/26/resume-critiques-%7C-tues-jan-26-at-6pm-in-cse-e312/"/>
-    <updated>2016-01-26T12:15:00-08:00</updated>
-    <id>http://ufsit.github.io/blog/2016/01/26/resume-critiques-|-tues-jan-26-at-6pm-in-cse-e312</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>Since tomorrow is Career Showcase, we&rsquo;ll be doing resume critiques tonight! Make sure to bring your resumes (either digitally or physically).</p>
-
-<!-- MORE -->
-
-
-<p>Also, a quick reminder that SwampSec is tomorrow night at 7pm at the Back Yard Bar!</p>
-
-<p>Hope to see you all there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
 Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
 Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
 Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
