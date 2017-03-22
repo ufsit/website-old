@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-03-07T16:40:13-08:00</updated>
+  <updated>2017-03-22T11:16:15-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Online Anonymity | March 23rd]]></title>
+    <link href="http://ufsit.github.io/blog/2017/03/22/online-anonymity-%7C-march-23rd/"/>
+    <updated>2017-03-22T11:04:53-07:00</updated>
+    <id>http://ufsit.github.io/blog/2017/03/22/online-anonymity-|-march-23rd</id>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>Think Incognito mode makes you an undetectable ninja on the web? Think again.</p>
+
+<p>This week, we will be learning what it truly takes to stay stealthy and covert in the online world. Join us to discover how to use Proxies, VPNs, and more to ensure that your online excursions are untraceable by Russian hackers, secret government agencies, or nosy neighbors. Come on out to protect your privacy!</p>
+
+<p>Also, be on the lookout for an announcement regarding a CTF this Friday. Exact times TBD, but be prepared!</p>
+
+<p>See ya there!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm – 7:30pm</strong> | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Crypto Challenges 3/2]]></title>
@@ -574,21 +602,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CCDC Interest Meeting | Tues Feb 2 @ 7pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-%7C-tues-feb-2-at-7pm-in-cse-e312/"/>
-    <updated>2016-02-01T15:23:40-08:00</updated>
-    <id>http://ufsit.github.io/blog/2016/02/01/ccdc-interest-meeting-|-tues-feb-2-at-7pm-in-cse-e312</id>
-    <content type="html"><![CDATA[<p>Hey everyone! UF is making moves to participate in the Southeast Collegiate Cyber Defense Competition (SECCDC) for the first time ever. This is really exciting and is something UF&rsquo;s security club and others have wanted to see for a while. Here&rsquo;s what the competition is about:</p>
-
-<p>CCDC is a network defense and business simulation. Essentially you are dropped into an unknown network with machines running unknown services. The story goes that the old IT staff was fired for incompetence. It&rsquo;s your job to clean up their mess and get the machines and services in working order as quick as possible. The network consists of messy Windows and Linux servers running anything from webservers, FTP daemons, to identity management services (active directory). While you clean up the mess, your boss barks orders and assigns tasks - usually more than be completed. The more tasks that are completed on time and longer your services stay up and functional, the more points you get. Oh and while you are fixing up your servers, there is an active red team probing your defenses, trying to keep you offline.</p>
-
-<p>We are going to have our first meeting tomorrow on <strong>Tuesday, February 2nd, 2015 @ 7:15PM in CSE 312</strong>. We&rsquo;re planning for at least an hour long meeting. We will be going over competition rules, how to play (and win), and we&rsquo;re going to be getting a team roster (12 people, 8 will actually play in the qualifying round) together. Looking forward to seeing you there!</p>
-
-<p>For more information about SECCDC visit: <a href="http://www.seccdc.org/rules.html">http://www.seccdc.org/rules.html</a></p>
 ]]></content>
   </entry>
   
