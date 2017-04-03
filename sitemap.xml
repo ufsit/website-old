@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://ufsit.github.io/blog/2017/04/03/no-meeting-this-week-plus-bsides-reminder/</loc>
+<lastmod>2017-04-03T09:18:51-07:00</lastmod>
+</url>
+<url>
 <loc>http://ufsit.github.io/blog/2017/03/22/online-anonymity-%7C-march-23rd/</loc>
 <lastmod>2017-03-22T11:04:53-07:00</lastmod>
 </url>
@@ -798,5 +802,8 @@
 </url>
 <url>
 <loc>http://ufsit.github.io/blog/page32/</loc>
+</url>
+<url>
+<loc>http://ufsit.github.io/blog/page33/</loc>
 </url>
 </urlset>

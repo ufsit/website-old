@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-03-22T11:16:15-07:00</updated>
+  <updated>2017-04-03T09:21:09-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[No Meeting this week + BSides Reminder]]></title>
+    <link href="http://ufsit.github.io/blog/2017/04/03/no-meeting-this-week-plus-bsides-reminder/"/>
+    <updated>2017-04-03T09:18:51-07:00</updated>
+    <id>http://ufsit.github.io/blog/2017/04/03/no-meeting-this-week-plus-bsides-reminder</id>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>We will not be meeting this Thursday. Instead, use that time to cheer on our CCDC team! They will be representing UFSIT in the Regional CCDC competition in Kennesaw, Georgia starting this Wednesday. If we win, we&rsquo;ll be heading to Nationals! Best of luck to our team!</p>
+
+<p>In other news, remember to sign up for our BSides event this Saturday! We will be carpooling to Orlando and spending the day learning about various topics of Cyber Security. Check out our pinned Facebook post for more information!</p>
+
+<p>Link to carpool doc: <a href="https://docs.google.com/spreadsheets/d/1WBsT648Unr4yz6MzLeYTwDhPCYDR8SBMOCHbb1RN0nk/edit">https://docs.google.com/spreadsheets/d/1WBsT648Unr4yz6MzLeYTwDhPCYDR8SBMOCHbb1RN0nk/edit</a></p>
+
+<p>Have a great week!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!]<br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
+Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<p>[Time and Location]<br/>
+<strong>Thursday 6:30pm – 7:30pm</strong> | <strong>CSE E309</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Online Anonymity | March 23rd]]></title>
@@ -562,33 +590,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 
 <p>Afterwards (around 7:30pm), Grant will be holding a debrief for CCDC. If you&rsquo;re unaware, the team made it to the SECCDC regionals! Grant will be talking about how the team did in the competition, what happened during the preliminaries, and what to expect next at regionals.</p>
-
-<p>Hope to see you all there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[From SQL injection to Shell | Tues Feb 9 @ 6pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/02/09/from-sql-injection-to-shell-%7C-tues-feb-9-at-6pm-in-cse-e312/"/>
-    <updated>2016-02-09T09:52:41-08:00</updated>
-    <id>http://ufsit.github.io/blog/2016/02/09/from-sql-injection-to-shell-|-tues-feb-9-at-6pm-in-cse-e312</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;ll be doing a hands-on exercise called &ldquo;From SQL Injection to Shell&rdquo;. In this exercise, you&rsquo;ll be using SQL injection with a few other techniques in order to gain remote code execution on the system. We&rsquo;ll be using the NETLAB machines again so feel free to bring your own computer, but you&rsquo;re more than welcome to use the machines in the lab.</p>
-
-<!-- MORE -->
-
 
 <p>Hope to see you all there!</p>
 
