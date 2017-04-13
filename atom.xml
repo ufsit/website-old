@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-04-13T16:34:32-07:00</updated>
+  <updated>2017-04-13T16:43:29-07:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -18,11 +18,13 @@
     <link href="http://ufsit.github.io/blog/2017/04/13/command-line-kung-fu-%7C-april-13th/"/>
     <updated>2017-04-13T16:28:50-07:00</updated>
     <id>http://ufsit.github.io/blog/2017/04/13/command-line-kung-fu-|-april-13th</id>
-    <content type="html"><![CDATA[<p>Hey SIT! In this lecture, we will discuss essential linux utilities and protocols, learn how ports and services work, how to use them and how to pivot around terminals with ease. To the experienced hacker, the terminal is simply an extension of one&rsquo;s fingers. Come on out to train in the art of Command Line Kung Fu!</p>
+    <content type="html"><![CDATA[<p>Hey SIT!</p>
+
+<p>In this lecture, we will discuss essential linux utilities and protocols, learn how ports and services work, how to use them and how to pivot around terminals with ease. To the experienced hacker, the terminal is simply an extension of one&rsquo;s fingers. Come on out to train in the art of Command Line Kung Fu!</p>
 
 <p>We will also be giving out our awesome new UFSIT shirts courtesy of Walmart.</p>
 
-<p>Also, on Tuesday, April 18th, Facebook will be coming in for a short lecture about Web Security. Come by for an interesting topic and informal meet-n-greet with the Walmart Security team!</p>
+<p>Also, on Tuesday, April 18th, Facebook will be coming in for a short lecture about Web Security. Come by for an interesting topic and informal meet-n-greet with the Facebook Security team!</p>
 
 <!-- MORE -->
 
