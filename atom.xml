@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-09-04T13:56:46-04:00</updated>
+  <updated>2017-09-04T17:22:15-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1st GBM! September 7th! Free Pizza!]]></title>
+    <link href="http://ufsit.github.io/blog/2017/09/04/1st-gbm/"/>
+    <updated>2017-09-04T17:19:16-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/09/04/1st-gbm</id>
+    <content type="html"><![CDATA[<p>Calling all SIT!</p>
+
+<p>Join us in CSE 231 @ 5:30 for free pizza and our first GBM. Meet the new officers! Eat Pizza! Be Merry!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Command Line Kung Fu | April 13th]]></title>
@@ -573,33 +584,6 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Security Internships and Jobs Panel | Tues Apr 19 @ 6pm in CSE E312]]></title>
-    <link href="http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-%7C-tues-apr-19-at-6pm-in-cse-e312/"/>
-    <updated>2016-04-17T17:50:24-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-|-tues-apr-19-at-6pm-in-cse-e312</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>This week, we&rsquo;re going to wind down the semester with a panel of some of our awesome graduating seniors to discuss security jobs and internships! We&rsquo;ll be discussing topics such as getting a security position, what a security role entails, and how security is involved in a general developer role as well as any questions you have.</p>
-
-<!-- MORE -->
-
-
-<p>Hope to see you all there!</p>
-
-<p>~ Andrew</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on Freenode // #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/ufsit">https://www.facebook.com/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Tuesday 6:00pm</strong> – 7:00pm | <strong>CSE E312</strong></p>
 ]]></content>
   </entry>
   
