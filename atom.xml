@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-08-24T13:20:28-07:00</updated>
+  <updated>2017-09-04T13:56:46-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Command Line Kung Fu | April 13th]]></title>
     <link href="http://ufsit.github.io/blog/2017/04/13/command-line-kung-fu-%7C-april-13th/"/>
-    <updated>2017-04-13T16:28:50-07:00</updated>
+    <updated>2017-04-13T19:28:50-04:00</updated>
     <id>http://ufsit.github.io/blog/2017/04/13/command-line-kung-fu-|-april-13th</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -42,7 +42,7 @@ Facebook: <a href="https://www.facebook.com/grou$%20  %0ATwitter:%20[@ufsit](htt
   <entry>
     <title type="html"><![CDATA[No Meeting this week + BSides Reminder]]></title>
     <link href="http://ufsit.github.io/blog/2017/04/03/no-meeting-this-week-plus-bsides-reminder/"/>
-    <updated>2017-04-03T09:18:51-07:00</updated>
+    <updated>2017-04-03T12:18:51-04:00</updated>
     <id>http://ufsit.github.io/blog/2017/04/03/no-meeting-this-week-plus-bsides-reminder</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -70,7 +70,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Online Anonymity | March 23rd]]></title>
     <link href="http://ufsit.github.io/blog/2017/03/22/online-anonymity-%7C-march-23rd/"/>
-    <updated>2017-03-22T11:04:53-07:00</updated>
+    <updated>2017-03-22T14:04:53-04:00</updated>
     <id>http://ufsit.github.io/blog/2017/03/22/online-anonymity-|-march-23rd</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -98,7 +98,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Crypto Challenges 3/2]]></title>
     <link href="http://ufsit.github.io/blog/2017/03/02/crypto-challenges-3-slash-2/"/>
-    <updated>2017-03-02T13:47:54-08:00</updated>
+    <updated>2017-03-02T16:47:54-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/03/02/crypto-challenges-3-slash-2</id>
     <content type="html"><![CDATA[<p>Below are the challenges for the meeting on March 2nd.</p>
 
@@ -158,7 +158,7 @@ f4FzVLLPqFxJ53psvQIDAQAB
   <entry>
     <title type="html"><![CDATA[Congratulations to our CCDC team!]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/28/congratulations-to-our-ccdc-team/"/>
-    <updated>2017-02-28T17:36:54-08:00</updated>
+    <updated>2017-02-28T20:36:54-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/28/congratulations-to-our-ccdc-team</id>
     <content type="html"><![CDATA[<p>The UF SIT Collegiate Cyber Defense Team qualified for the CCDC Regional Competition in a stunning performance this recent Saturday!</p>
 
@@ -186,7 +186,7 @@ f4FzVLLPqFxJ53psvQIDAQAB
   <entry>
     <title type="html"><![CDATA[Cryptography and Cookies | March 2nd]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/27/cryptography-and-cookies-%7C-march-2nd/"/>
-    <updated>2017-02-27T09:17:43-08:00</updated>
+    <updated>2017-02-27T12:17:43-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/27/cryptography-and-cookies-|-march-2nd</id>
     <content type="html"><![CDATA[<p><strong><strong><strong><em> FREE COOKIES ALERT </em></strong></strong></strong></p>
 
@@ -212,7 +212,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Intro to Reverse Engineering]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/22/intro-to-reverse-engineering/"/>
-    <updated>2017-02-22T17:08:55-08:00</updated>
+    <updated>2017-02-22T20:08:55-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/22/intro-to-reverse-engineering</id>
     <content type="html"><![CDATA[<p>Ever wondered about the mysterious and impenetrable &ldquo;Reverse Engineering&rdquo; category at CTFs? Ever wanted to reverse engineer a program to see how it runs at the assembly level? Do you enjoy poring over thousands of lines of assembly code?</p>
 
@@ -240,7 +240,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Tales of a Hacker w/ Founder of SIT]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/15/tales-of-a-hacker-w-slash-founder-of-sit/"/>
-    <updated>2017-02-15T14:53:30-08:00</updated>
+    <updated>2017-02-15T17:53:30-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/15/tales-of-a-hacker-w-slash-founder-of-sit</id>
     <content type="html"><![CDATA[<p>Think Mr. Robot has some unbelievable hacking scenarios? Think again.</p>
 
@@ -266,7 +266,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[AlexCTF Review and NSA Guest Appearance]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/08/alexctf-review-and-nsa-guest-appearance/"/>
-    <updated>2017-02-08T16:47:17-08:00</updated>
+    <updated>2017-02-08T19:47:17-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/08/alexctf-review-and-nsa-guest-appearance</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -292,7 +292,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[AlexCTF this weekend! Feb 3 - Feb 6]]></title>
     <link href="http://ufsit.github.io/blog/2017/02/03/alexctf-this-weekend-feb-3-feb-6/"/>
-    <updated>2017-02-03T19:41:03-08:00</updated>
+    <updated>2017-02-03T22:41:03-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/02/03/alexctf-this-weekend-feb-3-feb-6</id>
     <content type="html"><![CDATA[<p>It&rsquo;s been awhile since we&rsquo;ve had a CTF event, and this one turned out great! At 6pm on Friday, Feb 3rd, our crack team of hackers met up for a night of hacking and exploitation. Within 4 hours we had solved most of the problems for the AlexCTF!</p>
 
@@ -316,7 +316,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Spring GBM | Jan 12th at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2017/01/10/spring-gbm-%7C-jan-12th-at-6-30pm-in-cse-309/"/>
-    <updated>2017-01-10T18:40:03-08:00</updated>
+    <updated>2017-01-10T21:40:03-05:00</updated>
     <id>http://ufsit.github.io/blog/2017/01/10/spring-gbm-|-jan-12th-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Hey SIT! Do you like free pizza?</p>
 
@@ -350,7 +350,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Happy Thanksgiving!]]></title>
     <link href="http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving/"/>
-    <updated>2016-11-20T15:18:17-08:00</updated>
+    <updated>2016-11-20T18:18:17-05:00</updated>
     <id>http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -378,7 +378,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Reverse Engineering | Thurs Nov 3 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/11/02/reverse-engineering-%7C-thurs-nov-3-at-6-30pm-in-cse-309/"/>
-    <updated>2016-11-02T18:56:54-07:00</updated>
+    <updated>2016-11-02T21:56:54-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/11/02/reverse-engineering-|-thurs-nov-3-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Happy belated Halloween SIT!</p>
 
@@ -410,7 +410,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Buffer Overflows v2 | Thurs Oct 13 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/10/10/buffer-overflows-v2-%7C-thurs-oct-13-at-6-30pm-in-cse-309/"/>
-    <updated>2016-10-10T15:27:32-07:00</updated>
+    <updated>2016-10-10T18:27:32-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/10/10/buffer-overflows-v2-|-thurs-oct-13-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -436,7 +436,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Guide to Buffer Overflows | Thurs Oct 6 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/10/03/guide-to-buffer-overflows-%7C-thurs-oct-6-at-6-30pm-in-cse-309/"/>
-    <updated>2016-10-03T17:17:43-07:00</updated>
+    <updated>2016-10-03T20:17:43-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/10/03/guide-to-buffer-overflows-|-thurs-oct-6-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Welcome to another week SIT! We have a lot of exciting events planned.</p>
 
@@ -464,7 +464,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[SQL Injection 101 | Thurs Sept 29 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/09/27/sql-injection-101-%7C-thurs-sept-29-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-27T13:23:37-07:00</updated>
+    <updated>2016-09-27T16:23:37-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/09/27/sql-injection-101-|-thurs-sept-29-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -490,7 +490,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Introduction to CTFs | Thurs Sept 22 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-%7C-thurs-sept-22-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-19T18:22:14-07:00</updated>
+    <updated>2016-09-19T21:22:14-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-|-thurs-sept-22-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>What&rsquo;s up SIT!</p>
 
@@ -520,7 +520,7 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
   <entry>
     <title type="html"><![CDATA[Protiviti Resume Critiques | Thurs Sept 15 at 6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-%7C-thurs-sept-15-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-12T19:48:06-07:00</updated>
+    <updated>2016-09-12T22:48:06-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-|-thurs-sept-15-at-6-30pm-in-cse-309</id>
     <content type="html"><![CDATA[<p>Hey SIT!</p>
 
@@ -552,7 +552,7 @@ Facebook: <a href="https://www.facebook.com/grou$%20  %0ATwitter:%20[@ufsit](htt
   <entry>
     <title type="html"><![CDATA[First Semester Meeting Fall 2016 | Thurs Sep 8th @  6:30pm in CSE 309]]></title>
     <link href="http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016/"/>
-    <updated>2016-09-08T10:09:14-07:00</updated>
+    <updated>2016-09-08T13:09:14-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
@@ -579,7 +579,7 @@ Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
   <entry>
     <title type="html"><![CDATA[Security Internships and Jobs Panel | Tues Apr 19 @ 6pm in CSE E312]]></title>
     <link href="http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-%7C-tues-apr-19-at-6pm-in-cse-e312/"/>
-    <updated>2016-04-17T14:50:24-07:00</updated>
+    <updated>2016-04-17T17:50:24-04:00</updated>
     <id>http://ufsit.github.io/blog/2016/04/17/security-internships-and-jobs-panel-|-tues-apr-19-at-6pm-in-cse-e312</id>
     <content type="html"><![CDATA[<p>Hey SITers!</p>
 
