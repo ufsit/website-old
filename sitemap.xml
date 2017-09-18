@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://ufsit.github.io/blog/2017/09/17/fall-gbm-number-2-bandit-and-picoctf/</loc>
+<lastmod>2017-09-17T20:37:50-04:00</lastmod>
+</url>
+<url>
 <loc>http://ufsit.github.io/blog/2017/09/04/1st-gbm/</loc>
 <lastmod>2017-09-04T17:19:16-04:00</lastmod>
 </url>
@@ -668,13 +672,13 @@
 <loc>http://ufsit.github.io/first/</loc>
 </url>
 <url>
+<loc>http://ufsit.github.io/</loc>
+</url>
+<url>
 <loc>http://ufsit.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://ufsit.github.io/blog/archives/</loc>
-</url>
-<url>
-<loc>http://ufsit.github.io/</loc>
 </url>
 <url>
 <loc>http://ufsit.github.io/signin/</loc>

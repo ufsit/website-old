@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-09-15T18:38:02-04:00</updated>
+  <updated>2017-09-17T22:46:15-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fall GBM #2: Bandit and PicoCTF!]]></title>
+    <link href="http://ufsit.github.io/blog/2017/09/17/fall-gbm-number-2-bandit-and-picoctf/"/>
+    <updated>2017-09-17T20:37:50-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/09/17/fall-gbm-number-2-bandit-and-picoctf</id>
+    <content type="html"><![CDATA[<p>Heyo SITizens,</p>
+
+<p>Don&rsquo;t miss the second meeting of the semester! We&rsquo;ll be doing some introductory exercises with the wargame Bandit and the CTF PicoCTF. 5:30PM @ CSE 231! Pizza is pending.</p>
+
+<p>CSAW summary after the break.</p>
+
+<!-- MORE -->
+
+
+<p>UFSIT finished at 22nd out of over 150 North American Undergrad teams, and 112th overall! Woo! We had an early lead on hackucf, but they were able to clinch out the final day and finish just above us at 21st. Only the top 10 finishers will advance to the Finals, but word on the street is a few teams are getting investigated for cheating. Unfortunately, that number of teams is 2 instead of 12 (;</p>
+
+<p>Be sure to congratulate our top solvers Grant and Chris J when you see them! Tell Shawn to learn some reversing or web! Until next time&hellip;</p>
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: [<a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a>](<a href="https://www.facebook.com/grou$">https://www.facebook.com/grou$</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[1st GBM! September 7th! Free Pizza!]]></title>
@@ -562,33 +589,6 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
 Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
 Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
 Facebook: <a href="https://www.facebook.com/grou$%20  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Semester Meeting Fall 2016 | Thurs Sep 8th @  6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016/"/>
-    <updated>2016-09-08T13:09:14-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/09/08/first-semester-meeting-fall-2016</id>
-    <content type="html"><![CDATA[<p>Hey SITers!</p>
-
-<p>Welcome back to another year! Hope everyone had a productive and relaxing summer. If you&rsquo;re ready for another semester of Information Security awesomeness, come out to our first meeting tonight! We&rsquo;ll be introducing our new officers, talking you through our vision for the club, and showing off some AWESOME hacking demonstrations.</p>
-
-<!-- MORE -->
-
-
-<p>If that&rsquo;s not enough, we&rsquo;ll also be providing FREE PIZZA! Hope to see you there!</p>
-
-<p>~ Nick</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a><br/>
-Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
