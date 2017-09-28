@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-09-21T16:38:07-04:00</updated>
+  <updated>2017-09-27T21:28:17-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Your PassCrack is showing!]]></title>
+    <link href="http://ufsit.github.io/blog/2017/09/27/your-passcrack-is-showing/"/>
+    <updated>2017-09-27T11:02:06-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/09/27/your-passcrack-is-showing</id>
+    <content type="html"><![CDATA[<p>Don&rsquo;t just SIT there! Your passcrack is showing! Our third meeting this semester will be convering cracking passwords. By the end of this lecture students will learn concepts such as password hashing, grabbing, and attacking on Windows and Unix based devices. Come one come all!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fall GBM #2: Bandit and PicoCTF!]]></title>
@@ -557,38 +576,6 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
 Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
 Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
 Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Protiviti Resume Critiques | Thurs Sept 15 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-%7C-thurs-sept-15-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-12T22:48:06-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/09/12/protiviti-resume-critiques-|-thurs-sept-15-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>Hey SIT!</p>
-
-<p>Get ready for this week&rsquo;s meeting, as Fortune 500 Company Protiviti will be coming in to provide resume critiques! This is a great way to prepare for the UF Career Development Workshop occurring September 26.</p>
-
-<p>Please bring at least two HARD COPIES of your resume!</p>
-
-<p>This Friday, September 16, we will also be meeting in CSE 312 at 6pm to participate in the CSAW CTF event.</p>
-
-<!-- MORE -->
-
-
-<p>This is the largest and most important CTF event of the semester. The top qualifying teams will receive a FREE flight to New York to participate in a live CTF event. Please come out and participate! If you&rsquo;re completely new to CTFs, this is a great event to start with. The challenges have a wide range of difficulty, from beginner to expert. Feel free to ask any questions on the Facebook group or Slack, linked below.</p>
-
-<p>Hope to see everyone there for a fun night of hacking!</p>
-
-<p>~Nick</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$%20  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
 
 <p>[Time and Location]<br/>
 <strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
