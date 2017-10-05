@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-09-27T21:28:17-04:00</updated>
+  <updated>2017-10-04T20:18:06-04:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Raytheon Visit]]></title>
+    <link href="http://ufsit.github.io/blog/2017/10/04/raytheon-visit/"/>
+    <updated>2017-10-04T20:09:24-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/10/04/raytheon-visit</id>
+    <content type="html"><![CDATA[<p>Be sure not to miss the Reverse Engineering workshop brought to UFSIT by Raytheon!!
+Location: LIT 101. Time: 5:30pm. Date: Thursday October 4th! Food will be provided!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a>   </h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Your PassCrack is showing!]]></title>
@@ -541,36 +561,6 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
 
 <!-- MORE -->
 
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introduction to CTFs | Thurs Sept 22 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-%7C-thurs-sept-22-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-19T21:22:14-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/09/19/introduction-to-ctfs-|-thurs-sept-22-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>What&rsquo;s up SIT!</p>
-
-<p>Hope everyone had a great time with the CSAW CTF event this past weekend. Our team placed top 27 in the nation and top 10% in the world! Thanks to everyone who showed up, and congratulations!</p>
-
-<p>This week&rsquo;s meeting will feature explanations and write-ups of several CTF challenges that were completed at CSAW. If you were struggling with a particular challenge, this is the perfect way to see the solution worked out in real time.</p>
-
-<p>In addition, we will be having a hands-on lab to learn vital Linux and recon skills. Don&rsquo;t miss it!</p>
-
-<!-- MORE -->
-
-
-<p>Also, we will be hosting a Lake Wauburg Ropes Course social on October 8th. Check the Facebook for more information!</p>
-
-<p>~Nick</p>
 
 <p>[Be Social!]<br/>
 Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
