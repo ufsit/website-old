@@ -4,7 +4,7 @@
   <title><![CDATA[UF Student InfoSec Team]]></title>
   <link href="http://ufsit.github.io/atom.xml" rel="self"/>
   <link href="http://ufsit.github.io/"/>
-  <updated>2017-10-04T20:18:06-04:00</updated>
+  <updated>2017-11-14T20:45:28-05:00</updated>
   <id>http://ufsit.github.io/</id>
   <author>
     <name><![CDATA[UFSIT]]></name>
@@ -12,6 +12,112 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Web App Hacking with Scott]]></title>
+    <link href="http://ufsit.github.io/blog/2017/11/16/web-app-hacking-with-scott/"/>
+    <updated>2017-11-16T19:09:24-05:00</updated>
+    <id>http://ufsit.github.io/blog/2017/11/16/web-app-hacking-with-scott</id>
+    <content type="html"><![CDATA[<p>Dearly beloved SIT VP Scott(y) Miller will deliver a stellar lecture with exercises on the topic of Web App Hacking and the OWASP Top 10 (Web App) Vulnerabilities. Be sure not to miss it! Web app pentests are common in the interview process for cybersecurity internships!
+Location: CSE 231. Time: 5:30pm. Date: Thursday November 16th!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a>   </h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[John Sawyer Red Team Lecture]]></title>
+    <link href="http://ufsit.github.io/blog/2017/11/09/JohnSawyer/"/>
+    <updated>2017-11-09T19:09:24-05:00</updated>
+    <id>http://ufsit.github.io/blog/2017/11/09/JohnSawyer</id>
+    <content type="html"><![CDATA[<p>Heyo SIT,
+John H. Sawyer, &frac12; of the founding family of UFSIT, will be coming this Thursday to give an awesome HANDS ON red team talk on Cobalt Strike and offensive uses of Windows PowerShell! (And eat pizza :D )
+Cobalt Strike Trial Version Download: <a href="http://bit.ly/1zpijYE">http://bit.ly/1zpijYE</a>
+Cobalt Strike Training Videos: <a href="https://www.cobaltstrike.com/training">https://www.cobaltstrike.com/training</a>
+Intro to PowerShell: <a href="https://programminghistorian.org/lessons/intro-to-powershell">https://programminghistorian.org/lessons/intro-to-powershell</a>
+Location: CSE 101. Time: 5:30pm. Date: Thursday November 9th!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a>   </h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binary Ninja/Jordan Wiens Visit]]></title>
+    <link href="http://ufsit.github.io/blog/2017/11/02/binary-ninja-slash-jordan-wiens-visit/"/>
+    <updated>2017-11-02T21:09:43-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/11/02/binary-ninja-slash-jordan-wiens-visit</id>
+    <content type="html"><![CDATA[<p>SIT. You may have heard of a little program called Binary Ninja. You may also have heard of an organizatiion called the UF Student InfoSec Team. Binja creator and UFSIT founder as well as INFOSEC GOD Jordan Wiens will be coming today. If I needed to make this any better, there will be free PIZZA AND!!!!! LAPTOP STICKERS WITH OUR NEW LOGO!!!!
+Location: CSE 231. Time: 5:30 pm. Date: Thursday November 2nd!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a> <br/>
+Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What are Cryptocurrencies? With GBC]]></title>
+    <link href="http://ufsit.github.io/blog/2017/10/25/what-are-cryptocurrencies-with-gator-bitcoin-club/"/>
+    <updated>2017-10-25T21:17:38-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/10/25/what-are-cryptocurrencies-with-gator-bitcoin-club</id>
+    <content type="html"><![CDATA[<p>Hey everyone,</p>
+
+<p>We&rsquo;ve partnered with the Gator Bitcoin Club for a presentation on &ldquo;What are Cryptocurrencies?&rdquo; We hope to reach quite a large audience! Material will be shown giving a comprehensive background on cryptocurrencies and the cryptographic protocols that lie underneath.
+Location: CSE 231. Time: 5:30pm. Date: Thursday October 25th!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a>   </h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Classic Crypto]]></title>
+    <link href="http://ufsit.github.io/blog/2017/10/12/classic-crypto/"/>
+    <updated>2017-10-12T21:15:01-04:00</updated>
+    <id>http://ufsit.github.io/blog/2017/10/12/classic-crypto</id>
+    <content type="html"><![CDATA[<p>Yo!
+Our beloved book-cooker Spencer Fleming will be hosting a lecture on classical cryptographic ciphers and how they&rsquo;ve progressed over time. Exercises to follow the lecture!
+Location: CSE 231. Time: 5:30pm. Date: Thursday October 12th!</p>
+
+<!-- MORE -->
+
+
+<p>[Be Social!] <br/>
+Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
+Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a> <br/>
+Facebook: <a href="https://www.facebook.com/groups/ufsit">https://www.facebook.com/groups/ufsit</a></p>
+
+<h2>Twitter: <a href="https://twitter.com/ufsit">@ufsit</a></h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Raytheon Visit]]></title>
@@ -418,146 +524,6 @@ Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https:
 <p>In addition, we will begin taking applications for Chair positions! We aim to have a Corporate Liaison Chair and a CTF chair. Come to the meeting for more details!</p>
 
 <p><strong><em> FREE PIZZA INCLUDED </em></strong></p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Happy Thanksgiving!]]></title>
-    <link href="http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving/"/>
-    <updated>2016-11-20T18:18:17-05:00</updated>
-    <id>http://ufsit.github.io/blog/2016/11/20/happy-thanksgiving</id>
-    <content type="html"><![CDATA[<p>Hey SIT!</p>
-
-<p>Thanks to everyone who came out to the Metasploitable meeting this week. It was a cool introduction to everyone&rsquo;s favorite hacking assistance tool, Metasploit. I highly encourage everyone to explore and exploit the Metasploitable VM on their own time, it&rsquo;s great practice! You&rsquo;ll be working on a different set of skills than required in CTF challenges; its important to be a well-rounded hacker.</p>
-
-<p>In other news, thanks to everyone who participated in the RC3 CTF this weekend! As of right now, we are placed 101 out of 646 participating teams. The CTF ends at 12pm Sunday, so maybe we can solve one more challenge for top 100! Congratulations to everyone who solved a challenge and learned a thing or two =)</p>
-
-<p>There will not be a meeting this week due to Thanksgiving. Hope everyone has safe travels home and enjoys a nice break from school, full of food and family time!</p>
-
-<p>See ya in a few weeks!</p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Reverse Engineering | Thurs Nov 3 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/11/02/reverse-engineering-%7C-thurs-nov-3-at-6-30pm-in-cse-309/"/>
-    <updated>2016-11-02T21:56:54-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/11/02/reverse-engineering-|-thurs-nov-3-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>Happy belated Halloween SIT!</p>
-
-<p>Hope everyone&rsquo;s weekend was full of costumes and candy. While pumpkins and skeletons were fun, its time to start looking forward to Thanksgiving!!</p>
-
-<p>This week, we&rsquo;ll be taking a look at Reverse Engineering. This is the process of disassembling an executable file to understand its functions, processes, variables, etc. With this information known, it is possible to find a vulnerability which can be exploited with a malicious injection. In this way, an attacker can hijack execution control of a program to execute desired functions (getflag()) or even execute arbitrary code. We will also be taking a look at the most common tool for this, which is GDB, the GNU debugger. This is a hugely important topic for CTFs and cyber security in general, so I highly recommend to come out!</p>
-
-<p>Also, this Friday, at 7pm, in CSE 312, we will be having a CTF event! Join us as we participate in the HackTheVote online CTF. We will be providing food!</p>
-
-<p><strong><strong> FREE FOOD AT THE CTF </strong></strong>*</p>
-
-<p>Come on out for a fun night of hacking!</p>
-
-<!-- MORE -->
-
-
-<p>In addition, big thanks to everyone who came to the B-Sides Jacksonville conference and the Florida Center for CyberSecurity 3rd Annual Conferences. Both were extremely fun and enlightening, I hope everyone came away a little more experienced and aware of modern security trends! You can find pictures of our trips on our facebook, linked below.</p>
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Buffer Overflows v2 | Thurs Oct 13 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/10/10/buffer-overflows-v2-%7C-thurs-oct-13-at-6-30pm-in-cse-309/"/>
-    <updated>2016-10-10T18:27:32-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/10/10/buffer-overflows-v2-|-thurs-oct-13-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>Hey SIT!</p>
-
-<p>Hopefully everyone had a nice, long weekend, safe from Hurricane Matthew. Best wishes to everyone who has friends and family in the thick of the storm.</p>
-
-<p>Since our Buffer Overflow meeting was cancelled last week, we will be having it this week instead. This is an extremely important and fundamental technique for hackers, so I highly recommend coming out.</p>
-
-<p>Stay tuned on our facebook and mailing list for a possible CTF this Friday!</p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Guide to Buffer Overflows | Thurs Oct 6 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/10/03/guide-to-buffer-overflows-%7C-thurs-oct-6-at-6-30pm-in-cse-309/"/>
-    <updated>2016-10-03T20:17:43-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/10/03/guide-to-buffer-overflows-|-thurs-oct-6-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>Welcome to another week SIT! We have a lot of exciting events planned.</p>
-
-<p>Firstly, congratulations to everyone who participated in the TUMCTF. It was a pretty challenging event overall, but we managed to come out ranked 89th out of 434 competing teams. Great job! It was a great time hanging out all night trying to crack challenges. #trackmania</p>
-
-<p>This week&rsquo;s meeting will feature Buffer Overflows. This is another fundamental weapon in a hacker&rsquo;s arsenal, I definitely recommend coming out! We will be showing how to hijack the execution of a program using stack based overflows, letting you execute arbitrary code or run a program in unintended ways. We will be providing a hands-on exercise after the presentation for you to apply your newly-found powers to exploit some vulnerable programs.</p>
-
-<p>Finally, there will NOT be a CTF event this Friday Oct. 5th. Instead, make sure to come out to our Ropes Course Social at Lake Wauburg on Saturday! It will be a ton of fun, so definitely come out! We will be providing free food!</p>
-
-<p>Event link: <a href="https://www.facebook.com/events/1804142439821268/">Ropes Course Social</a></p>
-
-<!-- MORE -->
-
-
-<p>[Be Social!]<br/>
-Chat: #ufsit on <a href="https://ufcise.slack.com">ufcise.slack.com</a><br/>
-Website: <a href="http://www.ufsit.org">http://www.ufsit.org</a><br/>
-Facebook: <a href="https://www.facebook.com/grou$  %0ATwitter:%20[@ufsit](https://twitter.com/ufsit">https://www.facebook.com/groups/ufsit</a></p>
-
-<p>[Time and Location]<br/>
-<strong>Thursday 6:30pm</strong> – 7:30pm | <strong>CSE E309</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SQL Injection 101 | Thurs Sept 29 at 6:30pm in CSE 309]]></title>
-    <link href="http://ufsit.github.io/blog/2016/09/27/sql-injection-101-%7C-thurs-sept-29-at-6-30pm-in-cse-309/"/>
-    <updated>2016-09-27T16:23:37-04:00</updated>
-    <id>http://ufsit.github.io/blog/2016/09/27/sql-injection-101-|-thurs-sept-29-at-6-30pm-in-cse-309</id>
-    <content type="html"><![CDATA[<p>Hey SIT!</p>
-
-<p>Great job on our performance for the Hack1t CTF!! The CTF is still online until the end of this week, but we will be shifting focus to a new CTF this Friday. At one time during the CTF, we were 2nd place in the world! As of now, we are still hanging out in top 100 of the rankings. Awesome job everyone!</p>
-
-<p>This week&rsquo;s meeting will feature an Introduction to SQL Injection by our very own president, Terry Thibault. SQL Injection is an extremely important technique to know, as it is one of the most prevalent vulnerabilities year after year. People simply don&rsquo;t care about sanitizing input! Find out how to exploit their laziness and pwn a system this Thursday as Terry walks us through the process, from SQL to Shell.</p>
-
-<p>Also, don&rsquo;t forget to sign up for our Ropes Course Social at Lake Wauburg on October 8th! Check out our Facebook event for details and carpooling.</p>
 
 <!-- MORE -->
 
